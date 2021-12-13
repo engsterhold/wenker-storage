@@ -7,9 +7,11 @@ Bogentyp: Testbogen
 Erhebung: Testerhebung
 Transliterationsprojekt: Test
 Transliterent: engsterhold
-Anmerkungen: Das ist eine anmerkung, boah
+Anmerkungen: 'Das ist eine anmerkung, boah.
+
+  ein neuer test'
 Erstelldatum: 2021-11-16 11:39:22.801124
-Änderungsdarum: 2021-11-22 12:02:44.263026
+Änderungsdarum: 2021-12-13 10:17:30.082743
 ...
 WS1	Das ist ein test
 WS2	Update Test
