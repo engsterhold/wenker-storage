@@ -1,0 +1,685 @@
+Bogennummer	Ort	Wenkersatz	Original	Alignment
+03583	Magdeburg	WS01	Im Winter fliegen de drock'nen Blätter durch de' Luft' rum.	im winter fliegen de drocknen blätter durch de luft rum
+03636	Nauen	WS01	Im Winter fliejen die trocknen Blätter durch die Luft rum.	im winter fliejen die trocknen blätter durch die luft rum
+03647	Tegel	WS01	Im Winter fliejen die dröhn Blädder durch die Luft herüm.	im winter fliejen die dröhn blädder durch die luft herüm
+03672	Werneuchen	WS01	In Winter flehn dröen Bläder dörch de Luft rüm.	in winter flehn dröen bläder dörch de luft rüm
+03892	Oranienburg	WS01	In Winter flejen de drȫjen Blǟder dörch de Luft umhär.	in winter flejen de drȫjen blǟder dörch de luft umhär
+03974	Neustadt	WS01	In'n Winter flehjen de dröjen Bläder <(auch Bläjer)> dörch de Luft rümm.	inn winter flehjen de dröjen bläder dörch de luft rümm
+04095	Neuruppin	WS01	Im Winter fliegen de drocknen Blätter durch de Luft rum.	im winter fliegen de drocknen blätter durch de luft rum
+04206	Charlottenburg	WS01	In den Winder fligen die drockne Blädder durch die Luft rum.	in den winder fligen die drockne blädder durch die luft rum
+04209	Pankow	WS01	In'n Winter fliejen de drockne Bletter durch de Luft rum.	inn winter fliejen de drockne bletter durch de luft rum
+04223	Biesdorf	WS01	In Winter fleh'n die drehe Bläder durch die Luft rum.	in winter flehn die drehe bläder durch die luft rum
+04232	Strausberg	WS01	Im Winter fliejen de drocknen Blätter durch de Luft rum.	im winter fliejen de drocknen blätter durch de luft rum
+04330	Friedenau	WS01	Im Winter fliejen die drocknen Blätter durch die Luft herum.	im winter fliejen die drocknen blätter durch die luft herum
+04331	Schöneberg	WS01	Im Winter fliegen die trocknen Blätter in'e Luft rum.	im winter fliegen die trocknen blätter ine luft rum
+04332	Tempelhof	WS01	In Winder blen de trucknen Blädder dorch de Luft rumher.	in winder blen de trucknen blädder dorch de luft rumher
+04336	Rixdorf	WS01	In Winter fliegen di' drockne Blätter in' de Luft rum.	in winter fliegen di drockne blätter in de luft rum
+04409	Brandenburg	WS01	Im Winter fliejen d' drocknen Blätter durch d' Luft umher.	im winter fliejen d drocknen blätter durch d luft umher
+04432	Potsdam	WS01	In'n Wintă flij'n die drocknn Blettă durch <(in)> de Luft rum.	inn wintă flijn die drocknn blettă durch de luft rum
+04440	Teltow	WS01	Im Winter flieg'n die drocknen Blätter durch die Luft herum.	im winter fliegn die drocknen blätter durch die luft herum
+04466	Fürstenwalde	WS01	Im Winter fliejen die trocknen Blätter durch die Luft herum.	im winter fliejen die trocknen blätter durch die luft herum
+04484	Frankfurt/Oder	WS01	In'n Winter fliehen d'drocken Blätter durch die Luft rummer.	inn winter fliehen ddrocken blätter durch die luft rummer
+04561	Königs	WS01	Im Winterr fliejen die trrocknen Blätterr durrch die Luft herrum.	im winterr fliejen die trrocknen blätterr durrch die luft herrum
+04667	Zossen	WS01	In'n Winter fliegen die droikne Blätter in de Luft rum.	inn winter fliegen die droikne blätter in de luft rum
+04691	Beeskow	WS01	In'n Winter flien die verdr[o]hten Blätter in de Luft rum.	inn winter flien die verdrohten blätter in de luft rum
+05977	Weißenfels	WS01	In Winder fliegen de druck'n Blädder in der Luft 'rum.	in winder fliegen de druckn blädder in der luft rum
+06213	Sondershausen	WS01	In Winner flilegen dĕ trocknen Bl[é]tter därch dĕ Luft rĭmm.	in winner flilegen dĕ trocknen blétter därch dĕ luft rĭmm
+06394	Halle	WS01	Im Winder fliegn de drockn Bledder dorch de Luft rum. <(rumher)>.	im winder fliegn de drockn bledder dorch de luft rum 
+06504	Eisleben	WS01	In Winter fliegen de trocken Bletter in dr Luft rum.	in winter fliegen de trocken bletter in dr luft rum
+06686	Bitterfeld	WS01	In Winder fliehen de drehen Blâtter <(durch)> in de Lŭft rŭm.	in winder fliehen de drehen blâtter in de lŭft rŭm
+06803	Blankenburg	WS01	In Winter fleien de dröen Bläder dorch de Luft rum.	in winter fleien de dröen bläder dorch de luft rum
+06867	Dessau	WS01	In'n Winder flieen de trehen Blätter durch de Luft rum.	inn winder flieen de trehen blätter durch de luft rum
+06896	Halberstadt	WS01	Im Winder fleien de dröhen Bläder dorch de Luft rum.	im winder fleien de dröhen bläder dorch de luft rum
+07046	Plaussig	WS01	Ebenſo	ebenſo
+07051	Leipzig	WS01	Im Winder fliegen de drocknen Blädder in dr Lufd rum.	im winder fliegen de drocknen blädder in dr lufd rum
+07081	Hohburg	WS01	Im Winter fliegen die trocknen Blätter in der Luft herum.	im winter fliegen die trocknen blätter in der luft herum
+07437	Steinitz	WS01	In Winter fliehen ganzes die tregen Blätter in die Luft rum.	in winter fliehen ganzes die tregen blätter in die luft rum
+07852	Reinsberg	WS01	In Winter fliegen de treichen Blätter in der Luft rimm.	in winter fliegen de treichen blätter in der luft rimm
+07895	Dresden	WS01	In Wintr fliegn di trockenen Blättr durch die Luft rum.	in wintr fliegn di trockenen blättr durch die luft rum
+07896	Dresden	WS01	In Winter fliechen de trucknen Blätt'r durch </dorch> de Luft rum.	in winter fliechen de trucknen blättr durch de luft rum
+08244	Elsterwerda	WS01	Im Winter fliegen die treegen Blätter durch die Luft rum.	im winter fliegen die treegen blätter durch die luft rum
+08529	Goerlitz	WS01	Im Winter fliegen die droig'n Blätter durch die Luft rum.	im winter fliegen die droign blätter durch die luft rum
+08621	Bautzen	WS01	In Wintr fliegn de truckn Blättr durch de Luft rum.	in wintr fliegn de truckn blättr durch de luft rum
+08622	Burk	WS01	In Winter fliegen trockne Blater in Luft rimm.	in winter fliegen trockne blater in luft rimm
+08893	Spremberg	WS01	Im Winter fliegen die trocknen Blätter durch die Luft rum.	im winter fliegen die trocknen blätter durch die luft rum
+08900	Weisswasser	WS01	In Winter fliegen die trucknen Blätter in der Luft rum.	in winter fliegen die trucknen blätter in der luft rum
+08975	Hornow	WS01	In den Winter fliegen die trocknen Blatter in der Luft herum.	in den winter fliegen die trocknen blatter in der luft herum
+08980	Groß	WS01	Im Winter fliehn die tregen Blätter in der Luft rum.	im winter fliehn die tregen blätter in der luft rum
+09468	Breslau	WS01	Im Winter fliegen de treugen Blätter ei der Luft rum.	im winter fliegen de treugen blätter ei der luft rum
+10019	Dasburg	WS01	Am Wanter flegen de drehen Bläder durch d' Luft ärem.	am wanter flegen de drehen bläder durch d luft ärem
+10036	Weidigen	WS01	Am Wanter flegen de dröche Blähder durch de Luhgt erum.	am wanter flegen de dröche blähder durch de luhgt erum
+10043	Fliessem	WS01	Am Wanter flegen de dreche Bleeder durg d'Loft èrum.	am wanter flegen de dreche bleeder durg dloft èrum
+10053	Oberkail	WS01	Am Wanta flegen de drei Bläda an dr Loft erom.	am wanta flegen de drei bläda an dr loft erom
+10058	Oberöfflingen	WS01	Am Wanter flaugen de trei Blättr durch de Luft herum.	am wanter flaugen de trei blättr durch de luft herum
+10061	Hontheim	WS01	Em Wenter flegen de trecknen Blädder dourch de Loft heremm.	em wenter flegen de trecknen blädder dourch de loft heremm
+10063	Greimerath	WS01	Um Wunt'r fleg'n d'trei Blädd'r durch d'Loft 'rim.	um wuntr flegn dtrei bläddr durch dloft rim
+10080	Briedel	WS01	Em Wonter flegen die dröckenä Bläder durch de Luf häröm.	em wonter flegen die dröckenä bläder durch de luf häröm
+10082	Grenderich	WS01	Emm Wenter flehe die tröckne Blöller dorch die Loft herim.	emm wenter flehe die tröckne blöller dorch die loft herim
+10085	Blankenrath	WS01	Em Wenter flehe die treckene Bleerer en der Loft herem	em wenter flehe die treckene bleerer en der loft herem
+10096	Völkenroth	WS01	Im Winter fahre die truckene Blierer durig die Luft erimm.	im winter fahre die truckene blierer durig die luft erimm
+10103	Ebschied	WS01	Im Winder fliehe die truckene Bläre durich die Luft remm.	im winder fliehe die truckene bläre durich die luft remm
+10104	Bubach	WS01	Im Winder fliehe die druckene Blierer durich die Luft erimm.	im winder fliehe die druckene blierer durich die luft erimm
+10105	Laudert	WS01	Im Winder fliehe die truckne Bliere dorich die Luft' rimm.	im winder fliehe die truckne bliere dorich die luft rimm
+10106	Wiebelsheim	WS01	Im Winter fliege die truckene Blärer in de Luft e'rim.	im winter fliege die truckene blärer in de luft erim
+10111	Klosterchumbd	WS01	Im Winder fliehe die truckene Blierer in der Luft erimm.	im winder fliehe die truckene blierer in der luft erimm
+10115	Liebshausen	WS01	Em Wender fliehe die drockene Blierer dorch die Loft herem.	em wender fliehe die drockene blierer dorch die loft herem
+10120	Henschhausen	WS01	Im Wenter fliehe die trockene Bläre dorich die Luft herum.	im wenter fliehe die trockene bläre dorich die luft herum
+10129	Dichtelbach	WS01	Im Winter fahre die truckene Blätter in dr Luft erum.	im winter fahre die truckene blätter in dr luft erum
+10132	Oberheimbach	WS01	Im Winter flieje die trockene Bläre dorch die Luft herum.	im winter flieje die trockene bläre dorch die luft herum
+10135	Presberg	WS01	Em Winter flie die trockene Bläre dorch die Luft herom.	em winter flie die trockene bläre dorch die luft herom
+10136	Stephanshausen	WS01	Im Winter flieje die trockene Bläre dorch die Luft erum.	im winter flieje die trockene bläre dorch die luft erum
+10137	Johannisberg	WS01	Im Winter flie'n die druckene Blähre dorch die Luft erum.	im winter flien die druckene blähre dorch die luft erum
+10144	Eltville	WS01	Im Winter flia de Blerre trukenn dorch die Luft rumm.	im winter flia de blerre trukenn dorch die luft rumm
+10157	Budenheim	WS01	Im Winder fliehe die druckene Blärrer in der Luft erum.	im winder fliehe die druckene blärrer in der luft erum
+10159	Gonsenheim	WS01	Im Winter fliehe die truckene Blärrer dorch die Luft erum.	im winter fliehe die truckene blärrer dorch die luft erum
+10160	Mainz	WS01	Im Winder fli'e die drucken Bletter dorch die Luft e'rum.	im winder flie die drucken bletter dorch die luft erum
+10170	Eschfeld	WS01	Am Wanter fliegen die trechnen Bläder an der Lucht herem.	am wanter fliegen die trechnen bläder an der lucht herem
+10178	Seiwerath	WS01	Am Wanter flegen die trechne Llatter <(Blatter)> dorch de Luft erom.	am wanter flegen die trechne llatter dorch de luft erom
+10186	Feuerscheid	WS01	Am Wanter flejen de dreche Bläder durch de Loft erom.	am wanter flejen de dreche bläder durch de loft erom
+10192	Neidenbach	WS01	Amm Wanter fligen di drechen Bläder durc h die Loft rum.	amm wanter fligen di drechen bläder durc h die loft rum
+10194	Densborn	WS01	Am Wanter flegen die dreuen Bläder durch die Loft romen.	am wanter flegen die dreuen bläder durch die loft romen
+10201	Bleckhausen	WS01	Am Wanter flaugen de drei Bläder an därr Loft erom.	am wanter flaugen de drei bläder an därr loft erom
+10212	Eckfeld	WS01	Am Wanter flaugen die trai Bläter ann där Loft häromm.	am wanter flaugen die trai bläter ann där loft häromm
+10214	Immerath	WS01	Em Wenter flougen de deere Bläder dourch de Loft herim	em wenter flougen de deere bläder dourch de loft herim
+10224	Gevenich	WS01	Em Wenter flegen de Blätter dorch de Loft  erimm	em wenter flegen de blätter dorch de loft erimm
+10229	Dohr	WS01	Em Wenter flegen die treue Blätta in der Loft herom.	em wenter flegen die treue blätta in der loft herom
+10235	Clotten	WS01	E˘m Wennt'r flegen die drockene Blärrer durich die Loft äröm.	e˘m wenntr flegen die drockene blärrer durich die loft äröm
+10266	Dörth	WS01	Em Wenter fliehe die truckene Bleere dorch die Luft erim.	em wenter fliehe die truckene bleere dorch die luft erim
+10274	Pfalzfeld	WS01	Em Wenter fliehe die truckene Bläre dorich die Luft erim.	em wenter fliehe die truckene bläre dorich die luft erim
+10277	Biebernheim	WS01	Im Winder fliehje die druckene Bläre dorch die Luft herim.	im winder fliehje die druckene bläre dorch die luft herim
+10308	Springen	WS01	Em Wenter flie die trockene Blärer en d'Luft erem.	em wenter flie die trockene blärer en dluft erem
+10309	Nieder-Gladbach	WS01	Im Winter fliehe die trockne Blärer dorch die Luft rum.	im winter fliehe die trockne blärer dorch die luft rum
+10323	Seitzenhahn	WS01	Im Winter fliege die trochele Blärre dorch die Luft h'rim.	im winter fliege die trochele blärre dorch die luft hrim
+10490	Huppert	WS01	Im Wenter fliehe die trockene Bläre en d'r Luft erem.	im wenter fliehe die trockene bläre en dr luft erem
+10504	Orlen	WS01	Em Wenter flëiĕ die derrĕ Blärrĕ en d'r Luft h'rĕm.	em wenter flëiĕ die derrĕ blärrĕ en dr luft hrĕm
+10588	Mayen	WS01	Em Wender fleeje de dreue Bläder dorch de Loft erümm.	em wender fleeje de dreue bläder dorch de loft erümm
+10663	Heringen	WS01	Em Wenter fläje de droie Blerrer en der Loft erün.	em wenter fläje de droie blerrer en der loft erün
+10792	Welschneudorf	WS01	Em Wenter flehen die truckene Blärer durch die Loft erem.	em wenter flehen die truckene blärer durch die loft erem
+10804	Horbach	WS01	Em Wenter fleje die tr[?]ckene Blära en da Loft erem.	em wenter fleje die tr?ckene blära en da loft erem
+10817	Elz	WS01	Äm Wänter flöje däi treuje Blerrer dorch döi Loft härem.	äm wänter flöje däi treuje blerrer dorch döi loft härem
+10383	Werschau	WS01	Em Wenter fläige die treuge Blärrer enn d'r Loft herim.	em wenter fläige die treuge blärrer enn dr loft herim
+10841	Weyer	WS01	Em Wenter fleje di treue Bleerer en de Loft rim.	em wenter fleje di treue bleerer en de loft rim
+10846	Haintchen	WS01	Im Wenter flöien die treue Blärrer durch die Loft herim.	im wenter flöien die treue blärrer durch die loft herim
+10856	Holzhausen	WS01		
+10857	Hatzfeld	WS01	Ein Wenter flÿe die trockne Blärrer derch die Loft rim.	ein wenter flÿe die trockne blärrer derch die loft rim
+10866	Engelbach	WS01	Im Wönder fligö dö trokönö Blärer i derr Loft rim.	im wönder fligö dö trokönö blärer i derr loft rim
+10868	Ernsthausen	WS01	Im Wender fligge de trockele Blerre<(r)> dörch de Loft rimm.	im wender fligge de trockele blerre dörch de loft rimm
+10869	Münchhausen	WS01	Em Wenter fligge di trockene Blärrer dörch die Loft herim	em wenter fligge di trockene blärrer dörch die loft herim
+10877	Bracht	WS01	Em Wenter flige die trockele Blärrer derch die Loft rim.	em wenter flige die trockele blärrer derch die loft rim
+10879	Wohra	WS01	Em Wenter fligge die trockele Blärrer in derr Loft rimm.	em wenter fligge die trockele blärrer in derr loft rimm
+10886	Gilserberg	WS01	Em Wenter flien die trucken Blärrer dorch die Loft remm.	em wenter flien die trucken blärrer dorch die loft remm
+10919	Hülsa	WS01	Im Wengter fliehn die trocknen Blärrer dorch die Loft rem.	im wengter fliehn die trocknen blärrer dorch die loft rem
+10940	Weiterode	WS01	Im Wenter fliehen die trockenen Blätter derch derch die Luft umher.	im wenter fliehen die trockenen blätter derch derch die luft umher
+10943	Ronshausen	WS01	Im Weinter fliehen de trocken Blätter derh die Loft rem.	im weinter fliehen de trocken blätter derh die loft rem
+10947	Bosserode	WS01	Im Wänter flien de trokne Blätter in de Luft rem.	im wänter flien de trokne blätter in de luft rem
+11038	Rudolstadt	WS01	Im Winter fliegen dĕ trocknen Blätter dorch dĕ Luft rom̄.	im winter fliegen dĕ trocknen blätter dorch dĕ luft rom̄
+11130	Gräfenhain	WS01	In Wejnter flöjn de trockne Blätter dorch de Loft heröm.	in wejnter flöjn de trockne blätter dorch de loft heröm
+11400	Untermhaus	WS01	Im Winter fliegen de truck'nen Blätter dorch de Luft rim.	im winter fliegen de trucknen blätter dorch de luft rim
+11492	Erfurt	WS01	I Wintĕr fliechĕn dĕ trocknĕn Blätter dorch dĕ Loft r[ĕ]m.	i wintĕr fliechĕn dĕ trocknĕn blätter dorch dĕ loft rĕm
+11618	Stadtlauringen	WS01	Im Winter fliege die truckene Blä͡iter in der Luft rümm.	im winter fliege die truckene blä͡iter in der luft rümm
+11855	Hof	WS01	In̮ Win̮tär̮ fli͡eng die tru̮kn̮a Blä̮ttä̮r in̮ de̮r Lu̮ft run̮n[e].	in̮ win̮tär̮ fli͡eng die tru̮kn̮a blä̮ttä̮r in̮ de̮r lu̮ft run̮ne
+12037	Hildburgshausen	WS01	Im Wint'r fliehn die trocknen Bletter in dr Luft rümm.	im wintr fliehn die trocknen bletter in dr luft rümm
+12429	Reichenbach	WS01	Ne Winter flieng de druckene Blettr in dr Luft rimm.	ne winter flieng de druckene blettr in dr luft rimm
+12949	Freiberg	WS01	In' Winter fliegen de trucken Blätter dörch de Luft rim.	in winter fliegen de trucken blätter dörch de luft rim
+13082	Rodewisch	WS01	Ne Winter flieng de druck'n Bletter in d'r Luft rim.	ne winter flieng de druckn bletter in dr luft rim
+13275	Ernstthal	WS01	In Winter flieg'n die trigen Blätter dorch de Luft rim.	in winter fliegn die trigen blätter dorch de luft rim
+13296	Chemnitz	WS01	In Winter fliegen de trocken Blätter in der Luft rum.	in winter fliegen de trocken blätter in der luft rum
+13448	Ölsnitz	WS01	Im Winder flieng de treing Blätter dorch de Luft rimm.	im winder flieng de treing blätter dorch de luft rimm
+14559	Kostenthal	WS01	Im Winter flign die traigna Blähter durh da Luft herrum.	im winter flign die traigna blähter durh da luft herrum
+14580	Oberemmel	WS01	Em Wenter fleuen de tröcken Blädder durch de Lofft eremm!	em wenter fleuen de tröcken blädder durch de lofft eremm
+14591	Kell	WS01	Eamm Weannder flëin dëi trecken Blädder durch de Loft erem.	eamm weannder flëin dëi trecken blädder durch de loft erem
+14647	Lauterecken	WS01	Im Winder flieje die druckene Blerrer in de Luft erum.	im winder flieje die druckene blerrer in de luft erum
+14693	Dannenfels	WS01	Im Winder - auch mit unter Wender - fliehn die truckene Blärer en der Luft erum.	im winder   auch mit unter wender   fliehn die truckene blärer en der luft erum
+14724	Monsheim	WS01	Em Winter fliehen die truckne Blärer dorch die Luft rum.	em winter fliehen die truckne blärer dorch die luft rum
+14746	Liersberg	WS01	Am Wanter flöihen dö tröcken Blödder an der Loft röm.	am wanter flöihen dö tröcken blödder an der loft röm
+14787	Damflos	WS01	Im Winder fliehe die droggene Blädder durch die Luft erom.	im winder fliehe die droggene blädder durch die luft erom
+14788	Hilscheid	WS01	Eăm Wĕnda fle⃰{e mit einem Asterisk oben}je deï trocke Blerra durch die L[o]ft 'erem.	eăm wĕnda fle⃰je deï trocke blerra durch die loft erem
+14804	Niederbrombach	WS01	Im Winder <(i faßt e)> flie-ä die drokcknä Blärer durch die Louft erim.	im winder flie ä die drokcknä blärer durch die louft erim
+14824	Oberreidenbach	WS01	Em Winder fahre die trockene Blärrer in der Luft erum.	em winder fahre die trockene blärrer in der luft erum
+14834	Lauschied	WS01	Im Winder flieha d'druckene Blärrer in der Loft erum.	im winder flieha ddruckene blärrer in der loft erum
+14842	Cappeln	WS01	Im Winder fliee die truckne, Blerrer in der Lufd erum.	im winder fliee die truckne blerrer in der lufd erum
+14844	Breitenheim	WS01	Im Winder fliehe die trockene Blärer <(in) der> dorch die Luft 'erum	im winder fliehe die trockene blärer dorch die luft erum
+14910	Osthofen	WS01	Jm Winter fliehe die druckne Blärrer in dr Luft erum.	jm winter fliehe die druckne blärrer in dr luft erum
+14924	Sirzenich	WS01	Amm Wanter flegen de trecken Bleder dorch de Lofft eremm.	amm wanter flegen de trecken bleder dorch de lofft eremm
+14930	Trier	WS01	Öm Wönder fliehen de drockene Bläder dorsch de Loft erom.	öm wönder fliehen de drockene bläder dorsch de loft erom
+14933	Schweich	WS01	Amm Wander fliehen de trecken Bleder dorch de Lofft erromm.	amm wander fliehen de trecken bleder dorch de lofft erromm
+14937	Kenn	WS01	Em Wanter fleen die tröcken Bläder durch Loft heom.	em wanter fleen die tröcken bläder durch loft heom
+14943	Mertesdorf	WS01	Amm Wander flijen de trecke Bleeder dorch de Loft eromm.	amm wander flijen de trecke bleeder dorch de loft eromm
+14953	Horath	WS01	Im Winder fliehen di drocknen Bläder durch di Loft erum.	im winder fliehen di drocknen bläder durch di loft erum
+14955	Bescheid	WS01	Em Wenter flöien döi tröcken Blädder dorch döi Loft erim.	em wenter flöien döi tröcken blädder dorch döi loft erim
+14959	Haag	WS01	Aem Wänter flöüen döü trock'n Blärra darch dä Loft erem.	aem wänter flöüen döü trockn blärra darch dä loft erem
+14960	Merscheid	WS01	O<(o-u)> m Wu<(o-u)>nder fleeîjen d' droike Blätter dorch d' Lu<(o-u)>ft erom.	o m wunder fleeîjen d droike blätter dorch d luft erom
+14973	Sensweiler	WS01	Em Winder fahre die droggene Blierer en der Luft eremm.	em winder fahre die droggene blierer en der luft eremm
+14988	Wickenrodt	WS01	Em Wender fahre die trockne Blieerer durch die Loft erem.	em wender fahre die trockne blieerer durch die loft erem
+15012	Meckenbach	WS01	Im Winder fliehe die druckene Blärrer in d'r Luft erumm.	im winder fliehe die druckene blärrer in dr luft erumm
+15016	Kirschroth	WS01	Im Winder fliee die truckene Blätr in der Luft h'rum.	im winder fliee die truckene blätr in der luft hrum
+15029	Hüffelsheim	WS01	Im Winder flien die träkene Bleder dar[c]h die Luft herom.	im winder flien die träkene bleder darch die luft herom
+15040	Fürfeld	WS01	Im Winter fliehe die trockene Blärrer dorch die Luft erum.	im winter fliehe die trockene blärrer dorch die luft erum
+15042	Neu-Bamberg	WS01	Im Winder flieje die drockene Blerrer dorch die Luft.	im winder flieje die drockene blerrer dorch die luft
+15046	Wonsheim	WS01	Im Winter fliehen die trockne Blärer dorch die Luft herum.	im winter fliehen die trockne blärer dorch die luft herum
+15050	Wendelsheim	WS01	Em Wender fliehen die drockene Bläer en der Luft erum.	em wender fliehen die drockene bläer en der luft erum
+15052	Flonheim	WS01	Em Winder fliehen die druckene Blärre dorch die Luft erum.	em winder fliehen die druckene blärre dorch die luft erum
+15066	Bechtolsheim	WS01	Em Winter fliehn die truckne Blärrer dorch die Luft erimm.	em winter fliehn die truckne blärrer dorch die luft erimm
+15097	Eisenach	WS01	Am Wanter flegen de trechen Bleder an der Lugt erom.	am wanter flegen de trechen bleder an der lugt erom
+15118	Pohlbach	WS01	Amm Wander flaugen de trecken Bläder de Loft rumm.	amm wander flaugen de trecken bläder de loft rumm
+15152	Stipshausen	WS01	Im Winda fahre die trockene Bliera in der Luft erum.	im winda fahre die trockene bliera in der luft erum
+15154	Lindenschied	WS01	Im Winder fliehe die druckene Bliere in dr. Luft herim.	im winder fliehe die druckene bliere in dr luft herim
+15162	Gemünden	WS01	Im Winter fliee die truckene Bliere in de Luft erüm.	im winter fliee die truckene bliere in de luft erüm
+15180	Münchwald	WS01	Im Winter fliehe die trockene Blärrer darch die Luft herum.	im winter fliehe die trockene blärrer darch die luft herum
+15184	Windesheim	WS01	Im Winter fliehe die trockene Blärre dorch die Luft erom.	im winter fliehe die trockene blärre dorch die luft erom
+15339	Ravengiersberg	WS01	Im Winter fliehe die truckene Blierer dorich die Luft herim.	im winter fliehe die truckene blierer dorich die luft herim
+15260	Mettendorf	WS01	Am Wanter flehen de dreche Bleeder durch d'Lucht erom.	am wanter flehen de dreche bleeder durch dlucht erom
+15270	Messerich	WS01	Amm Wanter flegen de tröchenen Blädder durch de Lofft.	amm wanter flegen de tröchenen blädder durch de lofft
+15274	Moetsch	WS01	Amm Wanter flehen trochen Bläder an der Loft herum.	amm wanter flehen trochen bläder an der loft herum
+15288	Herforst	WS01	Amm Wanter flegen de treien durch de Loft erum.	amm wanter flegen de treien durch de loft erum
+15291	Bergweiler	WS01	Am Wanter fliegen die trecken Bläder an der Luft erom.	am wanter fliegen die trecken bläder an der luft erom
+15296	Wittlich	WS01	Em Wänter flejen de trock'e Bläder durch de Loft herum.	em wänter flejen de trocke bläder durch de loft herum
+15299	Altrich	WS01	Am Wanda flegen de trecke Bläda durech de Loft erom.	am wanda flegen de trecke bläda durech de loft erom
+15343	Tiefenbach	WS01	Im Win[d]er flie die druckene Blierer in der Luft erimm.	im winder flie die druckene blierer in der luft erimm
+15348	Schnorbach	WS01	Em Wender fliä die druckene Bliere in dä Luft eremm.	em wender fliä die druckene bliere in dä luft eremm
+15349	Ellern	WS01	Im Wind'r fliee die därre <(druggene)> Bliere in de Luft erum.	im windr fliee die därre bliere in de luft erum
+15350	Seibersbach	WS01	Im Winter fliehe die trockene Blärre dorch die Luft erum.	im winter fliehe die trockene blärre dorch die luft erum
+15351	Daxweiler	WS01	Im Winter fliege die trockne Blärrer durch die Luft herum.	im winter fliege die trockne blärrer durch die luft herum
+15365	Bingen	WS01	Im Winter fliehe die truckene Blätter durch die Luft erum.	im winter fliehe die truckene blätter durch die luft erum
+15369	Rümmelsheim	WS01	Im Winter fliehe die drockne Blerrer dorch die Luft herom.	im winter fliehe die drockne blerrer dorch die luft herom
+15380	Ockenheim	WS01	Im Winder flije die trockne Blärre durch die Luft rom.	im winder flije die trockne blärre durch die luft rom
+15386	Wackernheim	WS01	Im Winter fliehe die truckne Blärrer durch die Luft erum.	im winter fliehe die truckne blärrer durch die luft erum
+15389	Großwinternheim	WS01	Im Winder fliehe die drockene Blärre dorch die Luft erum.	im winder fliehe die drockene blärre dorch die luft erum
+15393	Essenheim	WS01	Im Winder flieje die drock[a]ne Blärre dorch die Luft eromm.	im winder flieje die drockane blärre dorch die luft eromm
+15394	Finthen	WS01	Im Winter flie die truckene Blärrer dorch die Luft erum.	im winter flie die truckene blärrer dorch die luft erum
+16907	Altendorf	WS01	aên wintⱱ dô vlî<(g)>ŋ də traê<(g)>ŋ bleêtⱱ aê dⱱ loft rim.	aên wintⱱ dô vlîŋ də traêŋ bleêtⱱ aê dⱱ loft rim
+16908	Klein	WS01	Em Winter fliegn de treign Bleeter ei dr Loft rimm. <(auch: fliegn … zukur.)>	em winter fliegn de treign bleeter ei dr loft rimm
+17139	Schönbrunn	WS01	Im Winta flöign die truckna Blala in dea Luft herum.	im winta flöign die truckna blala in dea luft herum
+20280	Osnabrück	WS01	Im Winter fleeget de dráugen Bláer dúúr de Luft herrúmme.	im winter fleeget de dráugen bláer dúúr de luft herrúmme
+20485	Lohne	WS01	In'n Winter fleigt dei drögen Blähr dör dei Luft herüm.	inn winter fleigt dei drögen blähr dör dei luft herüm
+20497	Meppen	WS01	In'n Winter fleget de drögen Bläere dör de Lucht herüm </besser in de Lucht ohne herüm>	inn winter fleget de drögen bläere dör de lucht herüm
+21052	Neustadt	WS01	In'n Winter fleiget de drögen Bläder dorch de Luft herum.	inn winter fleiget de drögen bläder dorch de luft herum
+21055	Otternhagen	WS01	Im Winter fleiget dä drögen Bläe in ner Luft herum.	im winter fleiget dä drögen bläe in ner luft herum
+21547	Hildesheim	WS01	In Winter fleiget de drögen Bläder dorch de Luft herummer.	in winter fleiget de drögen bläder dorch de luft herummer
+22204	Gifhorn	WS01	In'n Winter fleiget dä dregen Bläder dorch dä Luft herumme.	inn winter fleiget dä dregen bläder dorch dä luft herumme
+22340	Lüderitz	WS01	In Winter flegn de dröin Bläder dörch d' Luft ümher.	in winter flegn de dröin bläder dörch d luft ümher
+22792	Meuchefitz	WS01	Jn Windar fleg'n de dröhg Blärar därch de Luft arum.	jn windar flegn de dröhg blärar därch de luft arum
+22794	Satemin	WS01	Jm Windder fleegn dee drög Blärer in dee Luft arum.	jm windder fleegn dee drög blärer in dee luft arum
+22799	Lüchow	WS01	In Winder fleg'n de drög'n  Blärer in de Luft herrüm.	in winder flegn de drögn blärer in de luft herrüm
+22893	Oberhausen	WS01	Em Wenter flegen de drogen Bläer dör de Luf heröm.	em wenter flegen de drogen bläer dör de luf heröm
+23041	Dinslaken	WS01	In de Wenter fliegen de drögen Bläer dör de Lof heröm.	in de wenter fliegen de drögen bläer dör de lof heröm
+23265	Pfalzdorf	WS01	Im Winter flihe die truckene Blärrer dorch de Luft herum.	im winter flihe die truckene blärrer dorch de luft herum
+23330	Hamm	WS01	Im Winter flaiget de drö͡igen Bliër düër de Luft herümm.	im winter flaiget de drö͡igen bliër düër de luft herümm
+23355	Griethausen	WS01	In de Wenter fliegen de dröge Blär dörr de Locht heröm.	in de wenter fliegen de dröge blär dörr de locht heröm
+23361	Bedburg	WS01	In de Wenter fliege de dröge Bläär dörr de Locht.	in de wenter fliege de dröge bläär dörr de locht
+23471	Münster	WS01	Jn'n Winter fleigt de drügen Bliäder düör de Luft herüm.	jnn winter fleigt de drügen bliäder düör de luft herüm
+23488	Marienfeld	WS01	In'n Winter flaiget de drügen Bliäre düör de Luft herümme.	inn winter flaiget de drügen bliäre düör de luft herümme
+23507	Weseke	WS01	In'n Winter fleget de dröge Blah  dör de Luft herüm.	inn winter fleget de dröge blah dör de luft herüm
+23662	Romaney	WS01	Em Wengter flegen de drü Blader durch de Log herom.	em wengter flegen de drü blader durch de log herom
+23710	Drolshagen	WS01	Imme Winter flaint de drügen Blare düör de Luft rümme.	imme winter flaint de drügen blare düör de luft rümme
+23903	Schmallenberg	WS01	Imme Winter fleiget de droigen Bläär in der Luft rümme.	imme winter fleiget de droigen bläär in der luft rümme
+23926	Mönchengladbach	WS01	I᷾m We᷾ngter fle᷾ge dẽ <(drügg Bläẽr)> Lo᷾wer dür dẽ Loũt erömm.	i᷾m we᷾ngter fle᷾ge dẽ lo᷾wer dür dẽ loũt erömm
+24182	Sundern	WS01	Im Winter fleiget die dräugen Blätter dör de Luft.	im winter fleiget die dräugen blätter dör de luft
+24217	Crefeld	WS01	En de Wengkter fleïge de drüge Bläer dur de Lout häröm.	en de wengkter fleïge de drüge bläer dur de lout häröm
+24337	Berleburg	WS01	Em Wänter fliggen de trockene Blärer derch de Luft h'rum	em wänter fliggen de trockene blärer derch de luft hrum
+24355	Haine	WS01	Im Wenter fliegen die trocke Blärrer derch die Loft rim	im wenter fliegen die trocke blärrer derch die loft rim
+24360	Bottendorf	WS01	Em Wänter fliahn de drocke Blärrer derch de Loft rem.	em wänter fliahn de drocke blärrer derch de loft rem
+24367	Haubern	WS01	Em Wenter fliehe de trägen Blärrer dörch de Loft herum.	em wenter fliehe de trägen blärrer dörch de loft herum
+24378	Hüttenrode	WS01	Em Wänter fliehen die trocke Blärer en der Loft rem.	em wänter fliehen die trocke blärer en der loft rem
+24380	Bergfreiheit	WS01	Jn Wender fliegen de tregen Blädder derch de Loft rem.	jn wender fliegen de tregen blädder derch de loft rem
+24387	Kleinenglis	WS01	Em Wänter fliggen de trenjen Blärr derch de Loft rem.	em wänter fliggen de trenjen blärr derch de loft rem
+24388	Großenenglis	WS01	Em Wenter fliggen die tregen Blärrer derch de Loft räm̄.	em wenter fliggen die tregen blärrer derch de loft räm̄
+24397	Trockenerfurth	WS01	Äm Wängter fliggen de dregen Blärrer därch de Loft remher.	äm wängter fliggen de dregen blärrer därch de loft remher
+24398	Borken	WS01	Em Wenter flüggen de dregen Blärrer' derch de Loft.	em wenter flüggen de dregen blärrer derch de loft
+24410	Mühlhausen	WS01	Em Wender fliggen d' dregen Blärrer derch d' Loffd remm.	em wender fliggen d dregen blärrer derch d loffd remm
+24412	Roppershain	WS01	Em Wender fliejen die treje Blärrer en dr Loft remm.	em wender fliejen die treje blärrer en dr loft remm
+24414	Homberg	WS01	Im Wenter flichchen de drechenen Blätter derch de Loft remm.	im wenter flichchen de drechenen blätter derch de loft remm
+24430	Altmorschen	WS01	Im Wenter fliegen die tregen Blätter derch die Loft herem.	im wenter fliegen die tregen blätter derch die loft herem
+24431	Konnefeld	WS01	In Wender fliggen dïe drehgen Blatter derch de Loft.	in wender fliggen dïe drehgen blatter derch de loft
+24454	Berneburg	WS01	Em Winter fliegen die tracknen Blätter derch de Loft hän.	em winter fliegen die tracknen blätter derch de loft hän
+24464	Ulfen	WS01	Im Wäinter fliegen die trockenen Blätter in der Loft herum	im wäinter fliegen die trockenen blätter in der loft herum
+24474	Herleshausen	WS01	Em Wäinter flieh'n de trocknen Blätter derch de Loft remm.	em wäinter fliehn de trocknen blätter derch de loft remm
+24503	Sachsenberg	WS01	In Winter fliegen de trögen Bläder dörch de Luft rüm̄.	in winter fliegen de trögen bläder dörch de luft rüm̄
+24560	Bergheim	WS01	Im Wender fliegen die dregen Blätter derch die Loft 'rem.	im wender fliegen die dregen blätter derch die loft rem
+24589	Hoheneiche	WS01	Im Winder flegen de trockene Blätter derch de Luft herrim.	im winder flegen de trockene blätter derch de luft herrim
+24597	Röhrda	WS01	Em Winterfliegen die trocknen Blätter derch die Loft herim.	em winterfliegen die trocknen blätter derch die loft herim
+24643	Marienhagen	WS01	Im Winder flegen di dreugen Bläder dörch de Luft herüm.	im winder flegen di dreugen bläder dörch de luft herüm
+24658	Hemfurth	WS01	Im Wenter fliegen de drägen Bläder derch de Loft rimm	im wenter fliegen de drägen bläder derch de loft rimm
+24659	Buhlen	WS01	Den Wender fliegen d' dregen Blääder derch d' Loft remhär.	den wender fliegen d dregen blääder derch d loft remhär
+24671	Lohne	WS01	Im Wenter fliegen die tregen Blarer derch di Loft remher.	im wenter fliegen die tregen blarer derch di loft remher
+24677	Metze	WS01	Em Weinder fliegen dä dregen Blärer därch dä Loft remm.	em weinder fliegen dä dregen blärer därch dä loft remm
+24688	Wolfershausen	WS01	Im Wenter fliegen de drogne Blärer in där </dorch de> Loft h'rem.	im wenter fliegen de drogne blärer in där loft hrem
+24694	Wellerode	WS01	Em Wenter fliegen die treigen Blater in der Loft herom.	em wenter fliegen die treigen blater in der loft herom
+24695	Wattenbach	WS01	Im Winter fliggen de drägen Blätter därch de Lofft dorümmĕ.	im winter fliggen de drägen blätter därch de lofft dorümmĕ
+24706	Velmeden	WS01	Em Winter fliegen die tregen Blätter därch die Loft rem.	em winter fliegen die tregen blätter därch die loft rem
+24712	Küchen	WS01	Im Winter fliegen die treegen Blätter en der Loft rem.	im winter fliegen die treegen blätter en der loft rem
+24744	Aue	WS01	Im Winter fliegen die trock'ne Blätter in de Luft rimm.	im winter fliegen die trockne blätter in de luft rimm
+24749	Wannfried	WS01	Em Wenter fliegen die trockne Bletter en der Loft 'rem	em wenter fliegen die trockne bletter en der loft rem
+24737	Willingen	WS01	Jmmä Winter fliäget de drügen Bliäder diör de Luft rümme	jmmä winter fliäget de drügen bliäder diör de luft rümme
+24768	Schwalefeld	WS01	Im Winter fleget dei drügen Bläderä düörr dä Luft rümme.	im winter fleget dei drügen bläderä düörr dä luft rümme
+24785	Berndorf	WS01	Em Winter fleget de drügen Bläder dür de Luft rüme.	em winter fleget de drügen bläder dür de luft rüme
+24789	Meineringhausen	WS01	Im Winter flegen de drügen Bläder dürr de Luft herüm.	im winter flegen de drügen bläder dürr de luft herüm
+24797	Freienhagen	WS01	In Winter flegen de drügen Bläder döörch de Luft rümm.	in winter flegen de drügen bläder döörch de luft rümm
+24803	Istha	WS01	Im Winder flegen de trögen Bläder dorch de Loft rümher.	im winder flegen de trögen bläder dorch de loft rümher
+24809	Martinhagen	WS01	Em Wenter flegen de treigen Bläder en der Loft rem.	em wenter flegen de treigen bläder en der loft rem
+24833	Oberkaufungen	WS01	Im Wenter fliegen die treigen Blätter derch die Loft rim.	im wenter fliegen die treigen blätter derch die loft rim
+24838	Rossbach	WS01	Im Winter flegen die treuen Blätter därch die Luft herum.	im winter flegen die treuen blätter därch die luft herum
+24840	Wickenrode	WS01	Im Winter flegen die tröchen Blätter dörch die Loft rümm.	im winter flegen die tröchen blätter dörch die loft rümm
+24853	Orferode	WS01	Imme Winter fliegen d' drüjjen Blädder dörj d' Luft henne wedder.	imme winter fliegen d drüjjen blädder dörj d luft henne wedder
+24902	Rhenegge	WS01	Jmme Winter fläeget däe drügen Bläder dür däe Luft rüme.	jmme winter fläeget däe drügen bläder dür däe luft rüme
+24903	Adorf	WS01	Im Winter fläiget däi drägen Blädere dürr dei Luft rümme.	im winter fläiget däi drägen blädere dürr dei luft rümme
+24914	Wetterburg	WS01	Im Winter fläiget de drügen Bläder dür de Luft rümme.	im winter fläiget de drügen bläder dür de luft rümme
+24915	Külte	WS01	Im Winter fleget de drügen Blädere in der Luft härumme.	im winter fleget de drügen blädere in der luft härumme
+24929	Hohenkirchen	WS01	Im Wenter flegen dä traugene Bläther dörr di Loft rum.	im wenter flegen dä traugene bläther dörr di loft rum
+24936	Dörnberg	WS01	Im Winter fleggen de dräugen Bläder dörch de Luft herüm.	im winter fleggen de dräugen bläder dörch de luft herüm
+24939	Wilhelmshausen	WS01	In'n Winter fleegen de driegen Bläther in der Luft rimm.	inn winter fleegen de driegen bläther in der luft rimm
+24942	Speele	WS01	Jm Wënter flegen de dröhgen Blähter dörch de Luft rümmer.	jm wënter flegen de dröhgen blähter dörch de luft rümmer
+24955	Ermschwerd	WS01	Im Winter fliegen die trögen Blätter in der Luft rum.	im winter fliegen die trögen blätter in der luft rum
+24983	Heiligenstadt	WS01	Im Winter fliegen de trühjen Blätter in d'r Luft rümmer.	im winter fliegen de trühjen blätter in dr luft rümmer
+25010	Helmighausen	WS01	Im Winter fläget dä drügen Bläer dür dä Luft rumme.	im winter fläget dä drügen bläer dür dä luft rumme
+25018	Rhoden	WS01	Im Winter flièget de druigen Blä'ere in der Luft rümme.	im winter flièget de druigen bläere in der luft rümme
+25032	Breune	WS01	Im Winter fleget de drügen Blädder dür de Luft h'rümme	im winter fleget de drügen blädder dür de luft hrümme
+25153	Ostheim	WS01	Im Winter fleget de drügen Blädder dür de Luft herüm.	im winter fleget de drügen blädder dür de luft herüm
+25161	Schöneberg	WS01	Im Winter fleget de drügne Bläre dör de Luft herüm.	im winter fleget de drügne bläre dör de luft herüm
+25256	Deisel	WS01	Im Winter flähet de drüen Blührer in der Luft rüm.	im winter flähet de drüen blührer in der luft rüm
+25259	Helmarshausen	WS01	Im Winter fliht de drünne Bläre in de Luft rüm.	im winter fliht de drünne bläre in de luft rüm
+25268	Oedelsheim	WS01	In Winter fleiget die trüigen Bläre dor dei Luft rüm.	in winter fleiget die trüigen bläre dor dei luft rüm
+25271	Heisebeck	WS01	In Wintere fleigete drugen Bäre dar die Luft herüm.	in wintere fleigete drugen bäre dar die luft herüm
+25520	Meinberg	WS01	In'n Winter flöiget de dreugen Bleere in der Luft herrümm.	inn winter flöiget de dreugen bleere in der luft herrümm
+25670	Halle	WS01	In Winter fleiget die dräugen Bläer dör die Luft herümmer.	in winter fleiget die dräugen bläer dör die luft herümmer
+25847	Montabaur	WS01	Em Wentr fleje d treue Bläder durch d Louft rem.	em wentr fleje d treue bläder durch d louft rem
+25849	Boden	WS01	Em Winta fliehe die trëie Blöra en da Loft rem.	em winta fliehe die trëie blöra en da loft rem
+25877	Heckholzhausen	WS01	Em Wenter flöije de treue Blerer durch de Luft erim.	em wenter flöije de treue blerer durch de luft erim
+25896	Essershausen	WS01	Em Wenter fleje de trockene Blerrer dorch die Luft herim.	em wenter fleje de trockene blerrer dorch die luft herim
+25898	Edelsberg	WS01	D<(e)> Wender fleïje die trockene Blärrer en dr Luft erim̄.	d wender fleïje die trockene blärrer en dr luft erim̄
+25979	Leubsdorf	WS01	Em Wenter flege die dreu Blädder dorch d'Lof eröm.	em wenter flege die dreu blädder dorch dlof eröm
+26063	Langendernbach	WS01	Im Wänder fl<(e)>ihe d'' <(dähre von dürr,)> treue Blerer durch de Loft erem.	im wänder flihe d treue blerer durch de loft erem
+26068	Dorndorf	WS01	Im mWenter flei de treue Blerrer duärch de Louft erum.	im mwenter flei de treue blerrer duärch de louft erum
+26069	Frickhofen	WS01	Em Wenter fleje die droje Blerer dur de Loft erem.	em wenter fleje die droje blerer dur de loft erem
+26270	Mademühlen	WS01	Em Wenter fléi déi treue Bleerer dorch de Luft herim.	em wenter fléi déi treue bleerer dorch de luft herim
+26273	Oberrod	WS01	Em Wender fliehe de treije Blära dorch de Louft herem.	em wender fliehe de treije blära dorch de louft herem
+26283	Sinn	WS01	Em Wenter fle-i dĕ trockene Blärer durch dĕ Loft herrem.	em wenter fle i dĕ trockene blärer durch dĕ loft herrem
+26291	Nenderoth	WS01	Em Wenter flöi de treue Blärrer dorch de Luft rim.	em wenter flöi de treue blärrer dorch de luft rim
+26417	Altenkirchen	WS01	Em Wenter fliegen de trockene Blätter dorch de Loft heröm.	em wenter fliegen de trockene blätter dorch de loft heröm
+26437	Gieleroth	WS01	Em Wönter flegen die tröien Blärrer durch de Loft heröm.	em wönter flegen die tröien blärrer durch de loft heröm
+26456	Derschen	WS01	Em Wender flejen de treue Blärer dur de Loft eröm.	em wender flejen de treue blärer dur de loft eröm
+26478	Donsbach	WS01	Em Wenter flej de treue Blerer en der Loft rim.	em wenter flej de treue blerer en der loft rim
+26480	Dillenburg	WS01	Em Wender fleije de trockene Blährer durch de Luft rim.	em wender fleije de trockene blährer durch de luft rim
+26482	Eibach	WS01	Em Wenter fleje de treue Blerer durch de Loft rim.	em wenter fleje de treue blerer durch de loft rim
+26485	Erdbach	WS01	Em Wenter flöi döi treue Blärer en d'r Loft rim.	em wenter flöi döi treue blärer en dr loft rim
+26491	Herbornseelbach	WS01	Em Wender fehj de trockne Blärrer en der Loft erim.	em wender fehj de trockne blärrer en der loft erim
+26505	Aachen	WS01	E gene Wenktor flügge de drüg Blaar dörch de Luh eröm.	e gene wenktor flügge de drüg blaar dörch de luh eröm
+26532	Düren	WS01	Emm Wengte fleege d'drüch Bläde dorch d'Lūēt erömm.	emm wengte fleege ddrüch bläde dorch dlūēt erömm
+26597	Troisdorf	WS01	Em Wöngte flegen de drügge Blade dorch de Log heröm.	em wöngte flegen de drügge blade dorch de log heröm
+26676	Offdilln	WS01	Im Wender flieh de treue Blarer in der Luft rim.	im wender flieh de treue blarer in der luft rim
+26683	Straßebersbach	WS01	Ihm Wender fleje de treue Blarer i der Lofft 'rim	ihm wender fleje de treue blarer i der lofft rim
+26938	Bergheim	WS01	Em Wengter flege dö drugge Blädder durch dö Luhet öröm.	em wengter flege dö drugge blädder durch dö luhet öröm
+26874	Köln	WS01	Em Winter flege de drüg Blädder <{durch de/> en d'r Loch eröm.	em winter flege de drüg blädder en dr loch eröm
+27074	Schameder	WS01	Em Wenter flieh'n de trocke Blärrer e der Luft rem.	em wenter fliehn de trocke blärrer e der luft rem
+27075	Oberndorf	WS01	Em Wender flieh de drockene Blärrer derch de Loft remher.	em wender flieh de drockene blärrer derch de loft remher
+27083	Hochheim	WS01	Im Winter fliehe die trockne Blätter dorch d' Luft rim.	im winter fliehe die trockne blätter dorch d luft rim
+27106	Dudenhofen	WS01	Em Wenter flieje die trockene Blerrer dorch die Luft erim.	em wenter flieje die trockene blerrer dorch die luft erim
+27135	Wenighösbach	WS01	Im Wintar fliegen die trocknen Ble̮ra̮ in der Luft rüm.	im wintar fliegen die trocknen ble̮ra̮ in der luft rüm
+27150	Wiesthal	WS01	Im Wentar fliehen die treckene Bletter in der Luft röm̄.	im wentar fliehen die treckene bletter in der luft röm̄
+27213	Schweinfurt	WS01	In Winter flie'n die trouckna Blèter in der Luft rümm.	in winter flien die trouckna blèter in der luft rümm
+27223	Vockenhausen	WS01	Em Wenter fläija<(ng)> de trockene Blerre<(ng)> dorch die Luft herrimm.	em wenter fläija de trockene blerre dorch die luft herrimm
+27239	Salzbach	WS01	em Wenter fläin die troikene Blerrer durch die Loft h'rim.	em wenter fläin die troikene blerrer durch die loft hrim
+27244	Heddernheim	WS01	Jm Winter flieje die trockene Blädder dorch die Luft erum.	jm winter flieje die trockene blädder dorch die luft erum
+27262	Frankfurt	WS01	Im Winter fliehe die drockene Blätter in de Luft erum.	im winter fliehe die drockene blätter in de luft erum
+27273	Dietesheim	WS01	Em Wender flaije die trockene Blerre dorch die Loft erim.	em wender flaije die trockene blerre dorch die loft erim
+27275	Kesselstadt	WS01	Im Winter fläie diäi därre </trocknen> Bletter in d'r Luft e'rim	im winter fläie diäi därre bletter in dr luft erim
+27313	Lohrhaupten	WS01	Im Winter fliehe die trockene Bleder durch die Luft rüm.	im winter fliehe die trockene bleder durch die luft rüm
+27402	Petterweil	WS01	Irm Wirnter fläije die troackne Blerrer durch die Loft herim.	irm wirnter fläije die troackne blerrer durch die loft herim
+27411	Berkersheim	WS01	Em Wenter fläjn däi trokne Blärrer on dar Loft herim.	em wenter fläjn däi trokne blärrer on dar loft herim
+27425	Bruchköbel	WS01	Emm Wender fle͡-ihe di trockne Blerrer dorch di Loft errimm.	emm wender fle͡ ihe di trockne blerrer dorch di loft errimm
+27435	Altwiedermus	WS01	Eam Weander fläjn däi troacken Blerrer ean d Loaft errim.	eam weander fläjn däi troacken blerrer ean d loaft errim
+27437	Niedergründau	WS01	Emm Wenter fleihe die trockln Blaerrer dorch die Loft erimm.	emm wenter fleihe die trockln blaerrer dorch die loft erimm
+27444	Hailer	WS01	Em Wenter fleïhe dei drockele Blärrer dorch deï Loft h'rim.	em wenter fleïhe dei drockele blärrer dorch deï loft hrim
+27450	Haitz	WS01	Em Winter fläihe die trockene Bleter dorch die Luft.	em winter fläihe die trockene bleter dorch die luft
+27456	Lanzingen	WS01	Em Wenter fliehn die trecknen Bleter dorch die Luft rem.	em wenter fliehn die trecknen bleter dorch die luft rem
+27461	Oberndorf	WS01	Im Wenter fliege de drockene Bleder indr Luft röm.	im wenter fliege de drockene bleder indr luft röm
+27469	Roßbach	WS01	Ḛm Winter fliegḛ die trockene Blehtr ḛn der Luft römm.	ḛm winter fliegḛ die trockene blehtr ḛn der luft römm
+27505	Thundorf	WS01	'n Winter fliaga die truckena Bläiter in dr Luft rum.	n winter fliaga die truckena bläiter in dr luft rum
+27507	Kratzenbach	WS01	Em Went'r fleia di drockena Blärra en d'r Loft 'rimm.	em wentr fleia di drockena blärra en dr loft rimm
+27517	Niederems	WS01	Em Winter flehn de-i trockene Blärrer dorch die Luft herim.	em winter flehn de i trockene blärrer dorch die luft herim
+27547	Ober-Florstadt	WS01	Eam Weanter fläije die troackene Blearrer ean de Lofft erimm.	eam weanter fläije die troackene blearrer ean de lofft erimm
+27576	Vonhausen	WS01	Eam Weand'r fläie die troaikene Blerrer durch die Lofft erimm.	eam weandr fläie die troaikene blerrer durch die lofft erimm
+27578	Büdingen	WS01	Em Wender fle<(i)>ge die drockne Blärrer doech de<(i)> Loft herim.	em wender flege die drockne blärrer doech de loft herim
+27602	Alsberg	WS01	Im Wenter fliegen die trockene Bleter durch Luf remm.	im wenter fliegen die trockene bleter durch luf remm
+27614	Neuengronau	WS01	Em Wenter fliege die trockene Blerer durch die Luft röm.	em wenter fliege die trockene blerer durch die luft röm
+27679	Naunstadt	WS01	Em Wender fleije die troackne Blerrer durch die Loft erim.	em wender fleije die troackne blerrer durch die loft erim
+27685	Usingen	WS01	Im Wenter fleie die dtrockne Blätte in der Loft herim.	im wenter fleie die dtrockne blätte in der loft herim
+27689	Münster	WS01	Eam Weanter fläje di<(e)> troackene Blerrer ean d'r Loft erim.	eam weanter fläje di troackene blerrer ean dr loft erim
+27692	Friedrichsthal	WS01	Jm Wenter fleie die trockenen Blerer durch die Louft herim	jm wenter fleie die trockenen blerer durch die louft herim
+27700	Bad	WS01	Eam Wiänter fläije die troackene <(dourre)> Blerrer durch de Luft erim.	eam wiänter fläije die troackene blerrer durch de luft erim
+27703	Wisselsheim	WS01	Eam Weander fläije di troackne Blerer dorch di Loft erim.	eam weander fläije di troackne blerer dorch di loft erim
+27704	Friedberg	WS01	Eam Weanter fläihe die trockene Blerrer dorch die Loft herim.	eam weanter fläihe die trockene blerrer dorch die loft herim
+27717	Bingenheim	WS01	Eam Wennder fläje die drockne Blärrer dorch die Loft erimm	eam wennder fläje die drockne blärrer dorch die loft erimm
+27719	Leidhecken	WS01	Eam We͡anter flaeje die trockne Blerre e͡an dé Loft 'rimm.	eam we͡anter flaeje die trockne blerre e͡an dé loft rimm
+27734	Ortenberg	WS01	Eam Weänter fläÿĕ die troackĕnĕ Blerrĕr ean d'r Loft ĕrumm.	eam weänter fläÿĕ die troackĕnĕ blerrĕr ean dr loft ĕrumm
+27742	Gelnhaar	WS01	Eam Weander fläije di droakle Blerr'r ean d' Loft a' rim.	eam weander fläije di droakle blerrr ean d loft a rim
+27749	Burgbracht	WS01	Im Weander fläige die trockle Bleeder in de Loft 'rimm	im weander fläige die trockle bleeder in de loft rimm
+27754	Hitzkirchen	WS01	Im Weander fläige die trokke Bleeder in d'r Loft herimm.	im weander fläige die trokke bleeder in dr loft herimm
+27765	Ulmbach	WS01	Im Wenter fli=en die trockene Blä=er dorch die Luft ärem.	im wenter fli en die trockene blä er dorch die luft ärem
+27774	Gundhelm	WS01	Im Wender flieege die drouckene Blerer durch die Luft n' römm.	im wender flieege die drouckene blerer durch die luft n römm
+27775	Eichenried	WS01	Emm Wenter fliege die drockene Bleher enn dr Luft erämm.	emm wenter fliege die drockene bleher enn dr luft erämm
+27780	Heubach	WS01	Em Wenter flin die trockene Bleedr dorich die Luft röm.	em wenter flin die trockene bleedr dorich die luft röm
+27792	Wildflecken	WS01	Em Wenter fliēge die trouckene Bläöter ien dr Luoft röm	em wenter fliēge die trouckene bläöter ien dr luoft röm
+27821	Philippstein	WS01	Jm Wenter fleje die trockene Blärrer in dr Luft herim.	jm wenter fleje die trockene blärrer in dr luft herim
+27831	Kröffelbach	WS01	Eam Weander fleje die troackene Blerrer dorch die Loft herim.	eam weander fleje die troackene blerrer dorch die loft herim
+27835	Dornholzhausen	WS01	Em Wenter flähe die troackene Blerrer dorch die Loft herim.	em wenter flähe die troackene blerrer dorch die loft herim
+27842	Kirch-Göns	WS01	Öem Wörnter fläihe die troackne Blörrer dorch die Loft herrim.	öem wörnter fläihe die troackne blörrer dorch die loft herrim
+27846	Holzheim	WS01	Im Wirnde floge die traokene Blirer dorch die Loft erim.	im wirnde floge die traokene blirer dorch die loft erim
+27847	Butzbach	WS01	I<(ĕ)>m Wi<(ĕ)>nter fläie di trockene Blerrĕr dorch di Loft ĕrüm.	im winter fläie di trockene blerrĕr dorch di loft ĕrüm
+27871	Borsdorf	WS01	Eam Weander fläije die troakne Blerrer ean d'r Lofft erimm.	eam weander fläije die troakne blerrer ean dr lofft erimm
+27883	Glashütten	WS01	Jm Weanter fliege die trockne Blerer dorch die Loft herim.	jm weanter fliege die trockne blerer dorch die loft herim
+27887	Herchenhain	WS01	Im Wiënter flaië die dråkele Blehter in dr Lofft erem	im wiënter flaië die dråkele blehter in dr lofft erem
+27903	Jossa	WS01	Im Wenter fliänn die trockänä Bleder doärch die Luft ährömm	im wenter fliänn die trockänä bleder doärch die luft ährömm
+27908	Hauswurz	WS01	Im Wenter fliege die trackne Bleter dorch die Luft herömm.	im wenter fliege die trackne bleter dorch die luft herömm
+27909	Hintersteinau	WS01	Im Wenter flien die trockene Blerer durch die Luft eröm.	im wenter flien die trockene blerer durch die luft eröm
+27913	Neuhof	WS01	Em Wenter flege de trockene Bläer duech de Luft erem.	em wenter flege de trockene bläer duech de luft erem
+27914	Magdlos	WS01	Em Wenter fliegen die trockene Blärr dorch d. Loft rem.	em wenter fliegen die trockene blärr dorch d loft rem
+27918	Kerzell	WS01	Im Wenter flege de trokene Bleter dorch de Luft röm.	im wenter flege de trokene bleter dorch de luft röm
+27924	Weyhers	WS01	Im We=inter fleänn de trackenä Blehter dorch de Luft römm.	im we inter fleänn de trackenä blehter dorch de luft römm
+27929	Ebersberg	WS01	Im Wender flonn de trockene Blehter in dr Luft römm.	im wender flonn de trockene blehter in dr luft römm
+27981	Allendorf	WS01	Eam Wiandr fläje die trockene Blarrer ean d Luoft erimm.	eam wiandr fläje die trockene blarrer ean d luoft erimm
+28010	Nonnenroth	WS01	Em Wenter fleije däi troackene Blärrer dourch däi Loft e'rimm.	em wenter fleije däi troackene blärrer dourch däi loft erimm
+28020	Gonterskirchen	WS01	Eam Wenntar fliejah die troackne Blerrar enn der <(dorch die)> Loft erimm	eam wenntar fliejah die troackne blerrar enn der loft erimm
+28025	Einartshausen	WS01	Iem Wieenter fliede die trokne Blärrer durch die Loft erim.	iem wieenter fliede die trokne blärrer durch die loft erim
+28027	Götzen	WS01	Eam Weanter fliegea troackne Blörrer dorch die Loft h'rüm.	eam weanter fliegea troackne blörrer dorch die loft hrüm
+28030	Ulrichstein	WS01	Eam Weanter fligge die trockine Blerrer doch die Lofft herim.	eam weanter fligge die trockine blerrer doch die lofft herim
+28033	Engelrod	WS01	Em Wenter fliege die terckene Bleter ich der Luft erem.	em wenter fliege die terckene bleter ich der luft erem
+28045	Altenschlirf	WS01	Im Wenter floauge die troakele Bleter doarch die Luft erem.	im wenter floauge die troakele bleter doarch die luft erem
+28054	Hosenfeld	WS01	Em Wender flien de drokene Bleder en der Luft römm.	em wender flien de drokene bleder en der luft römm
+28063	Fulda	WS01	Im Weinter fläen de trockene Bleder in der Luft herem.	im weinter fläen de trockene bleder in der luft herem
+28080	Rupsroth	WS01	Im Wé inter flejen die trockene Bleder duhrch die röm.	im wé inter flejen die trockene bleder duhrch die röm
+28083	Wüstensachsen	WS01	Em Wenter fliega die trockene Blätter durch die Luft röm.	em wenter fliega die trockene blätter durch die luft röm
+28122	Kölschhausen	WS01	Em Wenter fleuge dĕi troakene Blirrer en der Loft herim.	em wenter fleuge dĕi troakene blirrer en der loft herim
+28134	Blasbach	WS01	Eam Weanter fläije die troackene Blerrer durch die Loft erim.	eam weanter fläije die troackene blerrer durch die loft erim
+28137	Krodorf	WS01	Eamm Weannder fleje dej trockne Blerr'r dorch dej Loft e'rimm.	eamm weannder fleje dej trockne blerrr dorch dej loft erimm
+28138	Naunheim	WS01	Eam Wenter floije däi droackne Blerrer durch däi Loft erim	eam wenter floije däi droackne blerrer durch däi loft erim
+28142	Ruttershausen	WS01	Em Wänder fläje die drockne Bleerer dorch die Loft erim.	em wänder fläje die drockne bleerer dorch die loft erim
+28148	Gießen	WS01	Em Wenter flähe dei trockene Blerrer dorch die Loft erim.	em wenter flähe dei trockene blerrer dorch die loft erim
+28167	Saasen	WS01	Em Wenter fläie die trockene Blerrer dorch die Loft erim.	em wenter fläie die trockene blerrer dorch die loft erim
+28168	Göbelnrod	WS01	Eam Wörntr fläije die trockene Blerrer dorch die Loft herim.	eam wörntr fläije die trockene blerrer dorch die loft herim
+28173	Merlau	WS01	Eam Weanter flüje die trockene Blerrer dorch die Lofft errimm.	eam weanter flüje die trockene blerrer dorch die lofft errimm
+28199	Maar	WS01	Im Wäinter fliege de trockene Bleter dorch de Loft erem.	im wäinter fliege de trockene bleter dorch de loft erem
+28211	Michelsrombach	WS01	Im Wennter flenn de trocken Bleeter darch de Loft herem.	im wennter flenn de trocken bleeter darch de loft herem
+28212	Müß	WS01	Im Wender flenn de trakne Bleder durch de Luft heremm.	im wender flenn de trakne bleder durch de luft heremm
+28216	Kämmerzell	WS01	Im Wäinter fliänn die drockenen Bleder dorch die Luft eremm.	im wäinter fliänn die drockenen bleder dorch die luft eremm
+28226	Hofaschenbach	WS01	Im Weinder flien de dörre Bleder in der Luft röm.	im weinder flien de dörre bleder in der luft röm
+28230	Günthers	WS01	Im Wäinter flege de draokne Bleder in der Luft räom.	im wäinter flege de draokne bleder in der luft räom
+28231	Hofbieber	WS01	Im Weinter flüehn de droackene Bleder in dr Luft erem.	im weinter flüehn de droackene bleder in dr luft erem
+28234	Neuschwambach	WS01	Im Wänter flinn de trockenen Bleter durch de Luft heröm.	im wänter flinn de trockenen bleter durch de luft heröm
+28242	Simmershausen	WS01	Im Weenter fliege die trockene Bleeter druch die Luft röm.	im weenter fliege die trockene bleeter druch die luft röm
+28265	Niederweidbach	WS01	Eam Weander fläihe die tooakenn' Blärrer en der Loft 'rimm.	eam weander fläihe die tooakenn blärrer en der loft rimm
+28272	Lohra	WS01	Em Wenter flägge de troakkene Blärrer en der Loft herim	em wenter flägge de troakkene blärrer en der loft herim
+28278	Krumbach	WS01	Eam Weant'r fleuhe die droakena Blerrer dorch die Loft arüm.	eam weantr fleuhe die droakena blerrer dorch die loft arüm
+28298	Londorf	WS01	Eam Weanter fläje die troackene Blerrer dorch die Loft erim.	eam weanter fläje die troackene blerrer dorch die loft erim
+28304	Rüddingshausen	WS01	Em Wenter fleje die trockene Blerrer dorch die Loft herim.	em wenter fleje die trockene blerrer dorch die loft herim
+28313	Nieder-Gemünden	WS01	'm Wi<(r)>nter fläihe die trockne Blarrer dorch die Loft erim.	m winter fläihe die trockne blarrer dorch die loft erim
+27314	Rülfenrod	WS01	Em Enter fläje die trockene Blärer dorch die Loft herim.	em enter fläje die trockene blärer dorch die loft herim
+28315	Otterbach	WS01	Eam Weanter fläihn däi trockana Blöhrer dorch düi Loft erimm.	eam weanter fläihn däi trockana blöhrer dorch düi loft erimm
+28322	Udenhausen	WS01	Im Wänter fliehe deh trockene Blärrer duerch deh Lofft herrum.	im wänter fliehe deh trockene blärrer duerch deh lofft herrum
+28328	Eifa	WS01	Im Wenter fleihe die trockene Blärrer dorch die Loft remhär.	im wenter fleihe die trockene blärrer dorch die loft remhär
+28330	Schwarz	WS01	Im Wöinter fliehe de troackne Blärrer dorch de Loft rem. <(in de Loft 'rem.)>	im wöinter fliehe de troackne blärrer dorch de loft rem
+28332	Udenhausen	WS01	Im Wänter fliehe deh trockene Blärrer duerch deh Lofft herrum.	im wänter fliehe deh trockene blärrer duerch deh lofft herrum
+28346	Großenmoor	WS01	Im Wäinter fliehen dee tro͡ackene Bleder in der Luft rem.	im wäinter fliehen dee tro͡ackene bleder in der luft rem
+28352	Kirchhasel	WS01	Im Weinter flien de trockene Bleter durch de Luft remm.	im weinter flien de trockene bleter durch de luft remm
+28356	Großentaft	WS01	Im Weinter flehe de Bläter dourch de Luft herem. <(herem)>	im weinter flehe de bläter dourch de luft herem
+28358	Rasdorf	WS01	Im Weÿnter fli͡änn de trockenä Blēter dūrch de Luft äremm.	im weÿnter fli͡änn de trockenä blēter dūrch de luft äremm
+28369	Wiesenthal	WS01	In Weeinter fliege die trakene Blader durch die Luft heröm.	in weeinter fliege die trakene blader durch die luft heröm
+28388	Hartenrod	WS01	em Wnnter fliehe die drocknen Blerer in der Loft hrim.	em wnnter fliehe die drocknen blerer in der loft hrim
+28392	Herzhausen	WS01	Em Wiënter fliehe d' trockene Blärer en d'r Loft rim.	em wiënter fliehe d trockene blärer en dr loft rim
+28407	Wehrshausen	WS01	Emm Wenter fligge die drockene Blärrer dorch de Loft rem.	emm wenter fligge die drockene blärrer dorch de loft rem
+28410	Marburg	WS01	Em Wender fligge die trockene Blätter dårch die Loft rim.	em wender fligge die trockene blätter dårch die loft rim
+28427	Niederwald	WS01	Em Wenter fleiä dei tr ockelä Blärrer dorch dei Luft.	em wenter fleiä dei tr ockelä blärrer dorch dei luft
+28437	Dannenrod	WS01	Eömm Wönter fläie däi drockne Blärer dorch däi Loft henrim.	eömm wönter fläie däi drockne blärer dorch däi loft henrim
+28441	Gleimenhain	WS01	Em Wenter fliehe die trockene Blärrer en der Loft rim.	em wenter fliehe die trockene blärrer en der loft rim
+28446	Holzburg	WS01	Im Wenter Flije die troackene Blärren ie derr Loft rem.	im wenter flije die troackene blärren ie derr loft rem
+28476	Mengshausen	WS01	Em Weinter fliehn de trockene Blerrer dorch de Loft rem.	em weinter fliehn de trockene blerrer dorch de loft rem
+28527	Ober-Dieten	WS01	Im Winter fligge die dorre Blarer dorch die Loft rim.	im winter fligge die dorre blarer dorch die loft rim
+28534	Biedenkopf	WS01	Emm Wenta flig'n de drockene Blärrrer durch de Luft 'r[i]mm.	emm wenta flign de drockene blärrrer durch de luft rimm
+28543	Mornshausen	WS01	M' Wirnter fliehe d'trockne Blärer dorch d'Loft herim	m wirnter fliehe dtrockne blärer dorch dloft herim
+28557	Sarnau	WS01	Em Wenter fliege die trockene Blärrer in der Luft rim.	em wenter fliege die trockene blärrer in der luft rim
+28561	Wehrda	WS01	Em Wenter fliegge die tråokole Blärrer dårch die Låft herrimm.	em wenter fliegge die tråokole blärrer dårch die låft herrimm
+28566	Schwabendorf	WS01	Em Wenter fleie die troikele Blärrer därch die Loft herrim.	em wenter fleie die troikele blärrer därch die loft herrim
+28567	Albshausen	WS01	Em Wenter fliege die trokele Blärrer derch die Luft rim.	em wenter fliege die trokele blärrer derch die luft rim
+28568	Betziesdorf	WS01	Äem Wänder fligge die dro͡akkeneh Blärrer doãrch die Loft herrim.	äem wänder fligge die dro͡akkeneh blärrer doãrch die loft herrim
+28572	Halsdorf	WS01	Em Wender fliehe die troäkäla Blärrer därch die Loft rum.	em wender fliehe die troäkäla blärrer därch die loft rum
+28584	Allendorf	WS01	Eom Weonter flijje die trockene Blärrer dorch die Loft rimm.	eom weonter flijje die trockene blärrer dorch die loft rimm
+28589	Neustadt	WS01	Im Wenter fliehe die trockene Blärrer därch die Loft rimm	im wenter fliehe die trockene blärrer därch die loft rimm
+28603	Schrecksbach	WS01	De Wenter fläige die trockene Blärrer i der Loft rem. <(zw. e u. ü)>	de wenter fläige die trockene blärrer i der loft rem
+28605	Neukirchen	WS01	Im Wender fläïje die dro͡ackene Blärrer dourch die Loaft rem.	im wender fläïje die dro͡ackene blärrer dourch die loaft rem
+28614	Oberaula	WS01	Em Wenter flehn de troackene Blärrer dorch de Loft herem.	em wenter flehn de troackene blärrer dorch de loft herem
+28617	Raboldshausen	WS01	Em Wengder fliggen die troiken Blärrer en der Loft rem.	em wengder fliggen die troiken blärrer en der loft rem
+28623	Gittersdorf	WS01	Em Weihnder fliehn de drockene Blärrer dorch de Loft rem.	em weihnder fliehn de drockene blärrer dorch de loft rem
+28625	Asbach	WS01	Em Wäinder flien de drockne {über "o" hat Informant in Klammern "a" angegeben.} Blädder durch de Luft rem.	em wäinder flien de drockne blädder durch de luft rem
+28628	Rohrbach	WS01	Em Weinter fliehn de trockene Blätter därch de Loft remm.	em weinter fliehn de trockene blätter därch de loft remm
+28632	Rotensee	WS01	[?]m Weinter fliehe de troakenen Blärrer doarch de Loft rem.	?m weinter fliehe de troakenen blärrer doarch de loft rem
+28640	Herfa	WS01	Em Weihnter fliehen de trockene Blätter dorch de Luft herremm.	em weihnter fliehen de trockene blätter dorch de luft herremm
+28646	Lengers	WS01	Em Wäinter fliehn de trockene Blätter dorch de Loft rem.	em wäinter fliehn de trockene blätter dorch de loft rem
+28651	Frauensee	WS01	Em Wè͡ìnter fliehn de Blätter dörch de Loft herem.	em wè͡ìnter fliehn de blätter dörch de loft herem
+300335	Oberwart	WS01		
+300378	Frauenkirchen	WS01	Im Winter fliagn die tien Plaln in der Luft umar nanda	im winter fliagn die tien plaln in der luft umar nanda
+31664	Kirkel	WS01	Im Winter fliehe die trucknen Blätter in der Luft erom.	im winter fliehe die trucknen blätter in der luft erom
+31700	Ramberg	WS01	Im Winder fliegn die truckene Blérrer in dr Luft erum.	im winder fliegn die truckene blérrer in dr luft erum
+31705	'Edesheim	WS01	M'Wender fliegen die trockene Blerrer in dĕ Luft rum.	mwender fliegen die trockene blerrer in dĕ luft rum
+31709	Maikammer	WS01	Im Wènter fliegen die truckene Bledder in der Luft 'rum.	im wènter fliegen die truckene bledder in der luft rum
+31711	Venningen	WS01	I., Wennders fliegen die trogene Bledder 'n de<(r)> Luft rumm.	i wennders fliegen die trogene bledder n de luft rumm
+31715	Lachen	WS01	'M Winder fliegen die druckĕne Blérer <unverständliches Zeichen über dem Wort. Hinweis auf 't' im Standard oder Dialektvariante?> in de Luffd rum.	m winder fliegen die druckĕne blérer in de luffd rum
+31719	Geinsheim	WS01	Imm Winder fliejn die druckene Blädder in d'r Luft rumm.	imm winder fliejn die druckene blädder in dr luft rumm
+31722	Weingarten	WS01	Im Winter fliegen die truckene Bléttĕr in der Luft rum.	im winter fliegen die truckene bléttĕr in der luft rum
+31799	Lebach	WS01	Emm Wennder flöühen doe drocken Blääder dorich doe Lofft e-roem.	emm wennder flöühen doe drocken blääder dorich doe lofft e roem
+31863	St.	WS01	End Wender fliehe'n die drockene Bler̃r̃er en d'r Luft 'errac[?]m.	end wender fliehen die drockene bler̃r̃er en dr luft errac?m
+31872	Waldleiningen	WS01	Im Winder flie'n die truckene Blärrer in d'Luft erum.	im winder flien die truckene blärrer in dluft erum
+31875	Esthal	WS01	Im Winder fliejen die truckene Blärer in de Luft erum.	im winder fliejen die truckene blärer in de luft erum
+31880	Königsbach	WS01	Im Winter fliegen die truckené Blätter, sage Blärrer in der Luft rum.	im winter fliegen die truckené blätter sage blärrer in der luft rum
+31883	Neustadt	WS01	Im Winder fliegen die trockene' Ble̮dder in dr Luft rum.	im winder fliegen die trockene ble̮dder in dr luft rum
+31887	Ruppertsberg	WS01	Im Winder fliegen die druggene Bléder <(Blerer=Zungen=r)> in d'r Luft rum.	im winder fliegen die druggene bléder in dr luft rum
+31889	Meckenheim	WS01	Im Winder fliejen die truckne Blè̱rer in d'Luft rum.	im winder fliejen die truckne blè̱rer in dluft rum
+31948	Merzig	WS01	Em Wender fliehn die trecken Bleder en de Loft erem.	em wender fliehn die trecken bleder en de loft erem
+31952	Wahlen	WS01	Em Wenter flêiihen dên Bläderdorch dêii Loft eremm.	em wenter flêiihen dên bläderdorch dêii loft eremm
+31954	Hargarten	WS01	Öm Wönder flöijn de dröcken Blehder ön der Loft erröm	öm wönder flöijn de dröcken blehder ön der loft erröm
+31983	Niederlinxweiler	WS01	Emm Wender fliehä die drocke Bledder dorch die Luft errumm.	emm wender fliehä die drocke bledder dorch die luft errumm
+31996	Fürth	WS01	Im Winter fliehe die druckene Blierer in der Luft herum.	im winter fliehe die druckene blierer in der luft herum
+32008	Rehweiler	WS01	Im Winder fliie die drockene Blä̌rrer in der Luft erum.	im winder fliie die drockene blä̌rrer in der luft erum
+32049	Kaiserslautern	WS01	Im Winder fliehen  die truckene Blärre<(r)> in d<(e)> Luft erum.	im winder fliehen die truckene blärre in d luft erum
+32050	Mehlingen	WS01	Im Winter flieh'n die druckne Blärre in der Luft h'rumm.	im winter fliehn die druckne blärre in der luft hrumm
+32053	Alsenborn	WS01	Im Winter fliehen die druckene Blerre in de Luft erum.	im winter fliehen die druckene blerre in de luft erum
+32057	Weidenthal	WS01	Im Winter flii'e ̮n die truckn'e Ble'rre in dè Luft  ̮érum.	im winter fliie ̮n die truckne blerre in dè luft ̮érum
+32067	Erpolzheim	WS01	Im Winter flijen die truckene Blerer in de Luft erum.	im winter flijen die truckene blerer in de luft erum
+32076	Dannstadt	WS01	Im Winder fliegen die druckene Bledder in der Luft rum. <(dd = etwas verschwommen).>	im winder fliegen die druckene bledder in der luft rum
+32091	Kirf	WS01	Em Wönter fliehen die treche Bläder dorch die Lut eröm.	em wönter fliehen die treche bläder dorch die lut eröm
+32101	Saarhölzbach	WS01	Em Wender fliehn die driechen Bläder dorch de Loft.	em wender fliehn die driechen bläder dorch de loft
+32106	Waldhölzbach	WS01	Eäm Weänter flëihen dëi trecken Bleder eän der Loft häremm.	eäm weänter flëihen dëi trecken bleder eän der loft häremm
+32195	Kottweiler	WS01	Im Winder fliegen die trocknen Blätter in der Luft erumm.	im winder fliegen die trocknen blätter in der luft erumm
+33080	Erlenbach	WS01	Im Winter fliegen die truckene Blerer in de Luft rum.	im winter fliegen die truckene blerer in de luft rum
+33102	Gleiszellen	WS01	Im Winter fliegen die trockene Blärrer in dè Luft rum.	im winter fliegen die trockene blärrer in dè luft rum
+33111	Herxheimweyher	WS01	Im Winter flieg'n die druckene Bledder in d'r Luft rum.	im winter fliegn die druckene bledder in dr luft rum
+33226	Hauenstein	WS01	Im Winder fliege die drockene Bletter in der Lufd rum.	im winder fliege die drockene bletter in der lufd rum
+33228	Wilgartswiesen	WS01	Im Wender fliegen die drockene Blérrèr in de Luft rum.	im wender fliegen die drockene blérrèr in de luft rum
+33244	Albersweiler	WS01	Im Winder fliegen die trugene Blerrer in de' Luft rum.	im winder fliegen die trugene blerrer in de luft rum
+33248	Burrweiler	WS01	'M Wender fliegen die trockene Berrer in de Luft rum.	m wender fliegen die trockene berrer in de luft rum
+33258	Ilbesheim	WS01	Im Wènter fliegen die trockene Blé̆rrer in de Luft rum.	im wènter fliegen die trockene blé̆rrer in de luft rum
+33271	Ottersheim	WS01	Im Winter fliegen die trockne Blerer in de Luft erum.	im winter fliegen die trockne blerer in de luft erum
+33273	Bellheim	WS01	Im Winder fliegé die drockéé Blèrrér in der Luft érum.	im winder fliegé die drockéé blèrrér in der luft érum
+33311	Schlierbach	WS01	Im Winte fiehe die trockne Blerre dorch die Luft rim.	im winte fiehe die trockne blerre dorch die luft rim
+33331	Steinbuch	WS01	Im Winter fliehe die truckne Blärrer in der Luft rim.	im winter fliehe die truckne blärrer in der luft rim
+33366	Külsheim	WS01	Im Wintr fliecha die trugane Blaiter in der Luft rüm.	im wintr fliecha die trugane blaiter in der luft rüm
+33434	Eich	WS01	Im Winder fliehen die trockene Blärre dorch die Luft erum.	im winder fliehen die trockene blärre dorch die luft erum
+33448	Ober-Ramstadt	WS01	Im Wintä fliehe die trocknen Blerer durch die Luft erum.	im wintä fliehe die trocknen blerer durch die luft erum
+33454	Neutsch	WS01	Im Winder flije d'e drockene Blerrer in d'r Luft erim.	im winder flije de drockene blerrer in dr luft erim
+33457	Reinheim	WS01	Im Winder flije die trockene Blerrer inder Luft erim.	im winder flije die trockene blerrer inder luft erim
+33459	Ernsthofen	WS01	Im Winter flie die trockne Blerrer in d'r Luft erim.	im winter flie die trockne blerrer in dr luft erim
+33518	Breitenbrunn	WS01	Im Winter fliege die trockene Bleter in der Luft rümm.	im winter fliege die trockene bleter in der luft rümm
+33541	Dessau	WS01	Im Windr fliehn die drockne Blerrer in de Luft erim.	im windr fliehn die drockne blerrer in de luft erim
+33605	Erfelden	WS01	Im Winter flieje die trockne Blärrer durch die Luft erimm.	im winter flieje die trockne blärrer durch die luft erimm
+33608	Büttelborn	WS01	Im Winter fliege die trockne Berrer dourch die Luft erim.	im winter fliege die trockne berrer dourch die luft erim
+33614	Traisa	WS01	Im Winter fli'e die trockene Blerra durch die Luft erim.	im winter flie die trockene blerra durch die luft erim
+33619	Spachbrücken	WS01	Im Winder fliehe die trockene Blerrer in d'e Luft erim.	im winder fliehe die trockene blerrer in de luft erim
+33622	Semd	WS01	Im Winda<(r)> fliehe die drockene Blerra<(r)> durch die <(in der)> Luft erim	im winda fliehe die drockene blerra durch die luft erim
+33631	Heubach	WS01	Im Wind'r fliege die droggene Blerre'r in d'r Luft 'rimm.	im windr fliege die droggene blerrer in dr luft rimm
+33725	Rüsselsheim	WS01	Im Winder fliehe die trockne Blärre dorch die Luft erim.	im winder fliehe die trockne blärre dorch die luft erim
+33741	Langen	WS01	Im Winter flije die trockene Blärrer durch die Luft erim.	im winter flije die trockene blärrer durch die luft erim
+33742	Götzheim	WS01	Em Wender fliehe de trukene Blerrer dorch die Luft erim.	em wender fliehe de trukene blerrer dorch die luft erim
+33842	Speyer	WS01	Im Winter fliegen die trukne Blätter in d'r Luft 'rum.	im winter fliegen die trukne blätter in dr luft rum
+33849	Altlussheim	WS01	Im Wintar flichḛ die druggenḛ Bletter in dè Luft rum.	im wintar flichḛ die druggenḛ bletter in dè luft rum
+33860	Schatthausen	WS01	Ä̆m Winder fliegä die drugedä Bledär in dä Luft rŭm.	ä̆m winder fliegä die drugedä bledär in dä luft rŭm
+33982	Heidelberg	WS01	Im Windda flieche die druggene Blädda in dr Luft rum.	im windda flieche die druggene blädda in dr luft rum
+34001	Daudenzell	WS01	Em Wintr fliegé truckene Blettr in dr Luft rum.	em wintr fliegé truckene blettr in dr luft rum
+34076	Ludwigshafen	WS01	Imm Winder flieche die droggene Blédder inn d'r Luft rumm.	imm winder flieche die droggene blédder inn dr luft rumm
+34096	Ursenbach	WS01	Im Winda fliejé di̮ druggene Blerer in da̮ Luft rum.	im winda fliejé di̮ druggene blerer in da̮ luft rum
+34105	Darsberg	WS01	Im Winder fliehe di truckene Blerrer in de Luft rum.	im winder fliehe di truckene blerrer in de luft rum
+34216	Gammelsbach	WS01	Im Winter fliege die trockere Blerer dorch die Luft erim.	im winter fliege die trockere blerer dorch die luft erim
+34302	Worms	WS01	Im Winder flieh'n die druckne Blädder in de' Luft 'erum.	im winder fliehn die druckne blädder in de luft erum
+34305	Bobstadt	WS01	Im Winter fliehe die drockene Blerrer dorch die Luft erum.	im winter fliehe die drockene blerrer dorch die luft erum
+34308	Lorsch	WS01	Im Winter fliehe die truckene Blerrer dorch die Luft e rim.	im winter fliehe die truckene blerrer dorch die luft e rim
+34321	Mittershausen	WS01	Im Winder flieje die trokere Blerrer dorch die Luft erim.	im winder flieje die trokere blerrer dorch die luft erim
+34333	Unter-Mossau	WS01	Im Winte flieje die truckere Blerre doich die Luft rim	im winte flieje die truckere blerre doich die luft rim
+34347	Hetzbach	WS01	Im Winter fliehe die trockne Blerrer durch die Luft erum.	im winter fliehe die trockne blerrer durch die luft erum
+34378	Tauberbischofsheim	WS01	Im Wind'r fliacha die truckene Blétter in d'r Lufr rüm.	im windr fliacha die truckene blétter in dr lufr rüm
+34440	Karlsruhe	WS01	Im Winter fliegè die trockene Blätter in dr Luft rum.	im winter fliegè die trockene blätter in dr luft rum
+34447	Berghausen	WS01	Im Wintér fliega die truggana Blättar in da Luft rum̄.	im wintér fliega die truggana blättar in da luft rum̄
+34707	Odenheim	WS01	Am Winder fliega die drukana Blètter an der Luft 'rum.	am winder fliega die drukana blètter an der luft rum
+34613	Heilbronn	WS01	Em Wenter fliacha d' truckene Blätter en der Luft rum.	em wenter fliacha d truckene blätter en der luft rum
+34734	Massenbachhausen	WS01	Ḛ̆m Wḛnter fliege de truckete Blètter ḛ̆n dr Luft rum̄.	ḛ̆m wḛnter fliege de truckete blètter ḛ̆n dr luft rum̄
+34929	Regensburg	WS01	N' Winta fliagn de dürn Lauba en da Luft uma.	n winta fliagn de dürn lauba en da luft uma
+35141	Ansbach	WS01	Im Winder fliéng die truckna Blétter in der Luft rum.	im winder fliéng die truckna blétter in der luft rum
+35337	Fürth	WS01	In Winder flëign di druckna Bletter in der Luft rum.	in winder flëign di druckna bletter in der luft rum
+35484	Hirschau	WS01	Im Winter flög'n die trockenen Bletter in der Luft herum.	im winter flögn die trockenen bletter in der luft herum
+35539	Erlangen	WS01	In Wintä flieg'n die truck'na Bletter </Blettä> in da Luft 'rum.	in wintä fliegn die truckna bletter in da luft rum
+35687	Weiden	WS01	In Winda fleīg'n die truckan Bladla in da Luft uma.	in winda fleīgn die truckan bladla in da luft uma
+36043	Nagel	WS01	N'Winda flö ͡ign di drukna Bladla in da Luf umananada.	nwinda flö ͡ign di drukna bladla in da luf umananada
+36065	Hohrodberg	WS01	Im Wieter fliège die truckene Blätter i der Luft erum.	im wieter fliège die truckene blätter i der luft erum
+36084	Colmar	WS01	Em Wenter flieje de truckene Bletter en der Luft herum.	em wenter flieje de truckene bletter en der luft herum
+36158	Niederehnheim	WS01	Ém Wäȳter fliāye d'dérre Blätter é-der Loft erom.	ém wäȳter fliāye ddérre blätter é der loft erom
+36159	Meistratzheim	WS01	Em Wender fliaje di drogene Blädder e der Luft erum.	em wender fliaje di drogene blädder e der luft erum
+36178	Müllen	WS01	Ĭm Wĭnter fliègè̆ dĭ trŭckenè̆ in d'r Luft rŭm.	ĭm wĭnter fliègè̆ dĭ trŭckenè̆ in dr luft rŭm
+36192	Ohlsbach	WS01	Im Windr fliega druckana Bleder in d'r Luft rum.	im windr fliega druckana bleder in dr luft rum
+36202	Kniebis	WS01	Em Wénder fliĕgḛt de druckénḛ̆<(an)> Blédder en dr Luft romm.	em wénder fliĕgḛt de druckénḛ̆ blédder en dr luft romm
+36272	Ödsbach	WS01	Im Winter fliege d' truckeni Bletter in de͡r Luft rum.	im winter fliege d truckeni bletter in de͡r luft rum
+36282	Wangenbourg	WS01	Em Wenter flieje de truckene Blätter in d'r Luft harum.	em wenter flieje de truckene blätter in dr luft harum
+36309	Furdenheim	WS01	Im Wīnder fléien drukeni Blédder én d'r Luft erum.	im wīnder fléien drukeni blédder én dr luft erum
+36334	Ruprechtsau	WS01	Im Windĕr flieje d' druggĕdĕ Blédder in d'r Luft erŭm. <(erumm)>	im windĕr flieje d druggĕdĕ blédder in dr luft erŭm
+36348	Achern	WS01	Im Winter fliaga truckna Blätt'r in d'r Luft rum.	im winter fliaga truckna blättr in dr luft rum
+36456	Bühl	WS01	Im Winter fli͡ege di druckene Blétter in der Luft 'rum.	im winter fli͡ege di druckene blétter in der luft rum
+36464	Ober-Bühlertal	WS01	Im Winder fliejè die druckenè Blèdder in dr Luft rum.	im winder fliejè die druckenè blèdder in dr luft rum
+36525	Wilshausen	WS01	E'm Wender fleije de truckene Blätter in d'r Luft herum.	em wender fleije de truckene blätter in dr luft herum
+36552	Marienthal	WS01	Ém Wénder fläja drugena Blätter én d'r Luft erum.	ém wénder fläja drugena blätter én dr luft erum
+36567	Fort-Louis	WS01	Im Wind'r fliejé die druggéné Blèdd'r in d'r Luft 'rum.	im windr fliejé die druggéné blèddr in dr luft rum
+36594	Bad	WS01	Im Winter flieget die trockene Blätter in der Luft rum.	im winter flieget die trockene blätter in der luft rum
+36772	Lichtenberg	WS01	Em Wendar fléja d' rugănā Bléddār én d'r Luft rumm.	em wendar fléja d rugănā bléddār én dr luft rumm
+36789	Goersdorf	WS01	Im Winder flieje die truckene Blädder in dr Luft rum.	im winder flieje die truckene blädder in dr luft rum
+36823	Siegen	WS01	Am Winter fliejè die truckichè Blétt'r in d'r Luft rum.	am winter fliejè die truckichè bléttr in dr luft rum
+36842	Neuburgweier	WS01	Im Winter flieget die truckenen Blätter in der Luft rum.	im winter flieget die truckenen blätter in der luft rum
+36880	Bischoffingen	WS01	Im Winder fliegä diä druckenä Bletter in der Luft rum.	im winder fliegä diä druckenä bletter in der luft rum
+36898	Maleck	WS01	Im Winter fliegen die trockenen Blätter in der Luft rum.	im winter fliegen die trockenen blätter in der luft rum
+36904	Sexau	WS01	Im Winter flieege <(fliehega flieäge)> die druckene Bletter in dr Luft rum.	im winter flieege die druckene bletter in dr luft rum
+36911	Yach	WS01	Im Wintr fłiaga die trukana Bléttr in dr Luft rum.	im wintr fłiaga die trukana bléttr in dr luft rum
+36933	Orschwiller	WS01	Em Wé̮nter flija d' trocke̮ne̮ Blätter i d'r Luft eru̱m.	em wé̮nter flija d trocke̮ne̮ blätter i dr luft eru̱m
+37007	Bindernheim	WS01	Em Wendr fläaia d' trugana Blättr é dr Luft harum.	em wendr fläaia d trugana blättr é dr luft harum
+37025	Schmieheim	WS01	Im Winter fliaga dia truckene Blätter in der Luft rum̄.	im winter fliaga dia truckene blätter in der luft rum̄
+37035	Bollenbach	WS01	Im Winter fliaga die trukéné Bletter in drr Luft rum.	im winter fliaga die trukéné bletter in drr luft rum
+37058	Le	WS01	Jm Wènter fliäja d'trurena Blétter è d'r Luft arum.	jm wènter fliäja dtrurena blétter è dr luft arum
+37119	Buchenberg	WS01	Im Winter fliaga die trukana Blätter in der Luft um a nant.	im winter fliaga die trukana blätter in der luft um a nant
+37388	Schenkenzell	WS01	Im Windder fliëge die druggene Bleter in der Luft rum.	im windder fliëge die druggene bleter in der luft rum
+37420	Bailingen	WS01	E[m̄] Wen̄dḛr fliègḛt de trukéná Blätlè en̄ dḛrr Luft rom̄. 	em̄ wen̄dḛr fliègḛt de trukéná blätlè en̄ dḛrr luft rom̄
+37611	Ulm	WS01	Em Wender fliaget di truckanḛ Bléddr ḛn dr Luft rum.	em wender fliaget di truckanḛ bléddr ḛn dr luft rum
+37618	Burlafingen	WS01	Im Wènt'r fliagn die trockene Blätt'r in d'r Luft 'rum.	im wèntr fliagn die trockene blättr in dr luft rum
+37748	Lehr	WS01	Ém Wénd<(e)>r flia̰ga̰ dia̰ drugénné Bléddèr ḛ́n d'r Lu̱ft rom.	ém wéndr flia̰ga̰ dia̰ drugénné bléddèr ḛ́n dr lu̱ft rom
+37902	Raumünzach	WS01	Im Winter fliage dia truckene Blétter in der Luft 'rum.	im winter fliage dia truckene blétter in der luft rum
+38044	Hünerberg	WS01	Em Wender fliaget dia droggene Blädder en der Luft rom.	em wender fliaget dia droggene blädder en der luft rom
+38052	Calw	WS01	Em Wender fliaget d[e] droggene Bledder en dr Luft rom̄.	em wender fliaget de droggene bledder en dr luft rom̄
+38169	Dennach	WS01	Em Wender flia̰ga̰t dia̰ trugga̰ne Bledder in da̰r Luft rom.	em wender flia̰ga̰t dia̰ trugga̰ne bledder in da̰r luft rom
+38215	Stuttgart	WS01	Iḿ Wéndḛ́r flia̰gḛd dé druggéné bléddḛr én d'r Lů̮ft rom.	iḿ wéndḛ́r flia̰gḛd dé druggéné bléddḛr én dr lů̮ft rom
+38400	Rudersberg	WS01	Em Wender fliaget de trockene Bledder en dr Luft rom.	em wender fliaget de trockene bledder en dr luft rom
+38482	Kleinvillars	WS01	Em Wender fliaga dia druggana Bläddr en dar Lufd rom.	em wender fliaga dia druggana bläddr en dar lufd rom
+38623	Nendingen	WS01	Im Wa̰iter fliḛga̰t di trukna̰ Bl[a]ttar i der Luft ṵm̄a̰.	im wa̰iter fliḛga̰t di trukna̰ blattar i der luft ṵm̄a̰
+38716	Dillingen	WS01	Im Windăr fliagăt dia truckănă Bledar in dar Luft herum.	im windăr fliagăt dia truckănă bledar in dar luft herum
+38803	Landshut	WS01	Im Winta fliagn de drukan Blall in da Luf umanand.	im winta fliagn de drukan blall in da luf umanand
+38838	Blindheim	WS01	Im Winder fliagant die drügne Blöder in der Luft rum.	im winder fliagant die drügne blöder in der luft rum
+39097	Ingolstadt	WS01	In Winta fliagn dè truckan Blätta in der Luft rum.	in winta fliagn dè truckan blätta in der luft rum
+39496	München	WS01	Im Winter fliagt 's dürre Laub' in da Luft 'rum.	im winter fliagt s dürre laub in da luft rum
+39733	Augsburg	WS01	Im Winter fliagend die druckene Blötter in der Luft 'rum.	im winter fliagend die druckene blötter in der luft rum
+39746	Sielenbach	WS01	A̰n Winda͡n̰g flia͡n̰̮g de druckigè̮n Blé̱da in da Luft umananda.	a̰n winda͡n̰g flia͡n̰̮g de druckigè̮n blé̱da in da luft umananda
+40112	Wald	WS01	An Winda fliagn de düarn Laban im Wind umananda.	an winda fliagn de düarn laban im wind umananda
+40126	Trostberg	WS01	Im Winda fliang de druan Blatln in da Luft umanada.	im winda fliang de druan blatln in da luft umanada
+40383	Passau	WS01	"En Windda floign de druggăn Bladdln en da Luft umanānd. <(auch ""umanānda"".)>"	"en windda floign de druggăn bladdln en da luft umanānd "
+40550	Straubing	WS01	Im Wint<(a)> floing dö truggan Blal in da Luft umanand.	im wint floing dö truggan blal in da luft umanand
+40637	Eschbach	WS01	Im Winter flöget dia trockene Bletter i de Luft uma.	im winter flöget dia trockene bletter i de luft uma
+40646	Unterlauchringen	WS01	Im Winter flügat die drochna Bletter i da Luft ummḛ.	im winter flügat die drochna bletter i da luft ummḛ
+40930	Ravensburg	WS01	Im Wintr fliegèt dea̰ trockene Blättr in d'r Luft rum.	im wintr fliegèt dea̰ trockene blättr in dr luft rum
+41086	Waldau	WS01	Im Winder fliègè die druchcherne Blédder in der Luft rum.	im winder fliègè die druchcherne blédder in der luft rum
+41102	Bräunlingen	WS01	Im Winter fliege die trochne Blatte i de Luft umme.	im winter fliege die trochne blatte i de luft umme
+41200	Masevaux	WS01	Im Windr flīhga d' droggana Blättr i dr Lufd ūmma.	im windr flīhga d droggana blättr i dr lufd ūmma
+41214	Aspach-Le-Bas	WS01	Im Wint'r fliaga diă truckena Blätt'r in dr Luft ărum.	im wintr fliaga diă truckena blättr in dr luft ărum
+41245	Lipburg	WS01	Im Winder fli-ege die trochènè Blädder in d'r Luft um̄è.	im winder fli ege die trochènè blädder in dr luft um̄è
+41262	Utzenfeld	WS01	Im Winter fliege die trochene Bletter in der Luft um̄e.	im winter fliege die trochene bletter in der luft um̄e
+41275	Schluchsee-Blasiwald	WS01	Jm Winter flüget de trochne Bléter i da Luft umma.	jm winter flüget de trochne bléter i da luft umma
+41296	Oberentzen	WS01	Im Winder fliaga̮ trogene Blätter in dr Luft uma.	im winder fliaga̮ trogene blätter in dr luft uma
+41309	Feldkirch	WS01	Im Winter fliä̆ge diĕ truckene Blätter in d'r Luft rum.	im winter fliä̆ge diĕ truckene blätter in dr luft rum
+41336	Kappel	WS01	Im Winter fliaga die trochana Blätter in der Luft rum.	im winter fliaga die trochana blätter in der luft rum
+41351	Urbès	WS01	Im Wintr fliege de truckene Blettr i d' Luft umme.	im wintr fliege de truckene blettr i d luft umme
+41365	Rimbach-Près-Guebwiller	WS01	Im Windér fliaga d'rockenè Blǟdér in d'r Luft ŭmma.	im windér fliaga drockenè blǟdér in dr luft ŭmma
+41460	Rixheim	WS01	Èm Wènter fliage d' truckene Blätter èn dr Luft umme.	èm wènter fliage d truckene blätter èn dr luft umme
+41566	Ranspach-Le-Bas	WS01	Im Winder flīaga dirre Blätter in d'r Luft umma.	im winder flīaga dirre blätter in dr luft umma
+41598	Lörrach	WS01	Im Winter fliège diè trochĕnĕ Bledder in d'r Luft umme.	im winter fliège diè trochĕnĕ bledder in dr luft umme
+41615	Schopfheim	WS01	Im Winter fliège die trochene Blätter in dr Luft um̄e.	im winter fliège die trochene blätter in dr luft um̄e
+41621	Wehr	WS01	Im Winter fliè-gè die troch'nĕ Blätter in d'r Luft ummè.	im winter fliè gè die trochnĕ blätter in dr luft ummè
+41623	Hütten	WS01	Im Winder flǖgn di drochnè Blädder ī der Luft ummè.	im winder flǖgn di drochnè blädder ī der luft ummè
+41653	Largitzen	WS01	Im Winter fliege truckene Blätter in dr Luft ume.	im winter fliege truckene blätter in dr luft ume
+41829	Friesenried	WS01	Im Wintr fliaget d'truckene Blättr in d'r Luft rum.	im wintr fliaget dtruckene blättr in dr luft rum
+41836	Kaufbeuren	WS01	In Wint'r flüëget d'ruckne Blöttr in d'r Lrft omanand'r.	in wintr flüëget druckne blöttr in dr lrft omanandr
+42067	Garmisch	WS01	Im Winter flieag'n dia trockna Blätter in dr Luft umanand.	im winter flieagn dia trockna blätter in dr luft umanand
+42097	Traunstein	WS01	Im Winda fliag'n dö trockna Blattln umerdum.	im winda fliagn dö trockna blattln umerdum
+42661	Frauenkirchen	WS01	In Winta fliagn die truckana Blal in da Luft umana'nda.	in winta fliagn die truckana blal in da luft umananda
+42662	Frauenkirchen	WS01	Im Winter fliegn die tien Plaln in der Luft umarnanda.	im winter fliegn die tien plaln in der luft umarnanda
+43690	Oberwart	WS01		
+43699	Sziget	WS01		
+44549	Tägerwilen	WS01	Im Winter flüged truchni <(auch trochni)> Blätter i de Luft ume.	im winter flüged truchni blätter i de luft ume
+44770	Mont-Tramelan	WS01	Im Winter flüge di trockene Bletter i dr Luft ume.	im winter flüge di trockene bletter i dr luft ume
+44773	La	WS01	Im Winter flüge die trockene Bletter i dr Luft ume.	im winter flüge die trockene bletter i dr luft ume
+45376	Winterthur	WS01	im vinter fly:gɘd die troxnɘ bletɘr i dr luft umɘ.	im vinter flygɘd die troxnɘ bletɘr i dr luft umɘ
+45827	Niederberg	WS01	Im Wintêr flügi di trochene Bletter i dr Luft dêsumê.	im wintêr flügi di trochene bletter i dr luft dêsumê
+45893	Lungern	WS01	Im Winter flodrid diä ddirä Bletter i dr Luft umä.	im winter flodrid diä ddirä bletter i dr luft umä
+46054	Medels	WS01	Im Wintr flügá dua trockna Plettr in dr Luft umhá.	im wintr flügá dua trockna plettr in dr luft umhá
+46079	Fideris	WS01	Im Winter fleugend di trocknen Pletter in der Luft ummer.	im winter fleugend di trocknen pletter in der luft ummer
+46124	Gsteig	WS01	Im Winter flöigen di trochene-m Blätter in der Luft umha.	im winter flöigen di trochene m blätter in der luft umha
+46135	Eggerberg	WS01	Im Winter fleigund di trochundu Bletter inder Luft umha.	im winter fleigund di trochundu bletter inder luft umha
+46136	Visperterminen	WS01	Im Winter fleigunt die trochunu Bletter in der Luft umanandre.	im winter fleigunt die trochunu bletter in der luft umanandre
+46143	Zwischbergen	WS01	Im Wintär fleigunt die trochunu Blettär in där Luft umunand.	im wintär fleigunt die trochunu blettär in där luft umunand
+46432	Duvenstedt	WS01	In Winder fleeg de drögen Blä in de Luch herüm.	in winder fleeg de drögen blä in de luch herüm
+46528	Brekendorf	WS01	In'ne Winder fleeng de dröng Blä dör de Luff rümm.	inne winder fleeng de dröng blä dör de luff rümm
+46582	Brecklum	WS01	Ín dí Wínter flegén dí dröge Bläder dör dí Luft herúm.	ín dí wínter flegén dí dröge bläder dör dí luft herúm
+46671	Schleswig	WS01	Inne Winter flēg'n de dräg'n Bläđer inne Luf herum.	inne winter flēgn de drägn bläđer inne luf herum
+46752	Nieblum	WS01	In'e Winter fleg'n de drögen Bläder dör'e Luft umhi.	ine winter flegn de drögen bläder döre luft umhi
+46758	Wyk	WS01	In de Winder flegen de drögen Bläder in de Luft herum.	in de winder flegen de drögen bläder in de luft herum
+47159	Bremen	WS01	In'n Winter fleegt de dregen Bläder inner Luft rum.	inn winter fleegt de dregen bläder inner luft rum
+47218	Barsselermoor	WS01	In'n Winter fläigt däi drögen Bleöre dör däi Luft herümme.	inn winter fläigt däi drögen bleöre dör däi luft herümme
+47220	Harkebrügge	WS01	Jnnen Winter fleiget die drögen Blöer där die Lucht herumme.	jnnen winter fleiget die drögen blöer där die lucht herumme
+47231	Oldenburg	WS01	In'n winter flêgt de drö̂gen blä̂der dö̂r de luft herum.	inn winter flêgt de drö̂gen blä̂der dö̂r de luft herum
+47314	Leer	WS01	In't Winter flegen de dröge Blader dör de Lücht </ in de Lücht> herum.	int winter flegen de dröge blader dör de lücht herum
+47526	Campen	WS01	'S winters vlijgen <(das holländiſche Y)> de drööge bladen döör de lücht.	s winters vlijgen de drööge bladen döör de lücht
+47660	Sandhorst	WS01	In'd Winter flegen de drög Bladen dör de Luft herüm. 	ind winter flegen de drög bladen dör de luft herüm
+47679	Zetel	WS01	Inn Winter fleegt de drögen Bläär inne Luft herümm.	inn winter fleegt de drögen bläär inne luft herümm
+47798	Kiel	WS01	Jn'n Winder fleecht de dröhg'n Bläder dörch de Luff herum.	jnn winder fleecht de dröhgn bläder dörch de luff herum
+48224	Cuxhaven	WS01	In Winter flegt de drögen Bläder dörch de Luft herüm. 	in winter flegt de drögen bläder dörch de luft herüm
+48388	Pakens	WS01	In'n Winter fleegt de drögen Blöh inne Luft hrumm.	inn winter fleegt de drögen blöh inne luft hrumm
+48388	Pakens	WS01	In'n Winter fleegt de drög' Blö<(ä)> in'd Lucht herüm.	inn winter fleegt de drög blö ind lucht herüm
+48456	Wittmund	WS01	In d' Winter flegen de dröge Blöd' dör de Lucht herüm.	in d winter flegen de dröge blöd dör de lucht herüm
+48550	Teutenwinkel	WS01	In'n Win<(j)>ta fleig'n dei drög'n Blärra dörg <(in)> dei Luft h'rüm <(run<(j)>d üm)>	inn winta fleign dei drögn blärra dörg dei luft hrüm d üm)>
+48663	Segeberg	WS01	In'n Winther flejgt dej drögen Blädher dör <(dörch)> dej Luft h'rüm. 	inn winther flejgt dej drögen blädher dör dej luft hrüm
+48891	Grevesmühlen	WS01	In Wintde flegen de drögen Bläre dörch de Luft rüm.	in wintde flegen de drögen bläre dörch de luft rüm
+48975	Elmshorn	WS01	In Winter flegt de drög'n Bläd in de Lof 'r[?]m.	in winter flegt de drögn bläd in de lof r?m
+49498	Dannenberg	WS01	In Winter flegen de drögen Bläder dörch de Luft umher.	in winter flegen de drögen bläder dörch de luft umher
+49547	Pritzwalk	WS01	In'n Winter fleegen de drögen Blärer dörch de Luft rümm.	inn winter fleegen de drögen blärer dörch de luft rümm
+49547	Lüneburg	WS01	In'n winter fleigt dei drø̂g'n blœ̂der dørch dei luft rym.	inn winter fleigt dei drø̂gn blœ̂der dørch dei luft rym
+50119	Hamburg	WS01	In'n Winter fleegt de dreugen Blöd in de Luft herum.	inn winter fleegt de dreugen blöd in de luft herum
+50345	Schwerin	WS01	In'n Wintĕ fleg'n de drög'n Blärĕ dörch de Luft rüm.	inn wintĕ flegn de drögn blärĕ dörch de luft rüm
+51186	Bergen	WS01	In'n <(in den)> Winte flēg'n dē drȫg'n Bläṙe dör̥ch dē Luft her̥rüm.	inn winte flēgn dē drȫgn bläṙe dör̥ch dē luft her̥rüm
+51273	Stralsund	WS01	Im Winte flegen de drögen Bläre dorch de Luft herrüm.	im winte flegen de drögen bläre dorch de luft herrüm
+51351	Marlow	WS01	In'n Wintá fleig'n dei drög'n Blärá dörch die Luft rüm.	inn wintá fleign dei drögn blärá dörch die luft rüm
+51427	Waren	WS01	In'n Wintă fleig'n dei drög'n Blärră dörch dei Luft rüm <(auch rümmă)>.	inn wintă fleign dei drögn blärră dörch dei luft rüm 
+51453	Neubrandenburg	WS01	In'n Wint-er <(a)> fleegen de drögen Blärer <(a)> dörch de Luft herüm.	inn wint er fleegen de drögen blärer dörch de luft herüm
+51687	Neustrelitz	WS01	In'n Wintĕr fleg'n de drög'n Blärĕr dörch de Luft rüm.	inn wintĕr flegn de drögn blärĕr dörch de luft rüm
+51784	Saarow	WS01	Im Winte fleege de dröge Bläde dörch de Luft ümhe.	im winte fleege de dröge bläde dörch de luft ümhe
+51862	Prenzlau	WS01	In'n Winta fleg'n de drög'n Blära dörch de Luft ümher.	inn winta flegn de drögn blära dörch de luft ümher
+52197	Gransee	WS01	In Winter flegen de drögen Bläter dörch de Luft rümhär.	in winter flegen de drögen bläter dörch de luft rümhär
+52227	Angermünde	WS01	Im Winter flegen de drögen Bläder in de Luft rum.	im winter flegen de drögen bläder in de luft rum
+80023	Bosco	WS01	Ém Wéntar fleigan di trocknu Blattar i dér Luft ummar.	ém wéntar fleigan di trocknu blattar i dér luft ummar
