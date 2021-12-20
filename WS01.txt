@@ -81,7 +81,7 @@ Bogennummer	Ort	Wenkersatz	Original	Alignment
 10201	Bleckhausen	WS01	Am Wanter flaugen de drei Bläder an därr Loft erom.	am wanter flaugen de drei bläder an därr loft erom
 10212	Eckfeld	WS01	Am Wanter flaugen die trai Bläter ann där Loft häromm.	am wanter flaugen die trai bläter ann där loft häromm
 10214	Immerath	WS01	Em Wenter flougen de deere Bläder dourch de Loft herim	em wenter flougen de deere bläder dourch de loft herim
-10224	Gevenich	WS01	Em Wenter flegen de Blätter dorch de Loft  erimm	em wenter flegen de blätter dorch de loft erimm
+10224	Gevenich	WS01	Em Wenter flegen de Blätter dorch de Loft erimm	em wenter flegen de blätter dorch de loft erimm
 10229	Dohr	WS01	Em Wenter flegen die treue Blätta in der Loft herom.	em wenter flegen die treue blätta in der loft herom
 10235	Clotten	WS01	E˘m Wennt'r flegen die drockene Blärrer durich die Loft äröm.	e˘m wenntr flegen die drockene blärrer durich die loft äröm
 10266	Dörth	WS01	Em Wenter fliehe die truckene Bleere dorch die Luft erim.	em wenter fliehe die truckene bleere dorch die luft erim
@@ -129,7 +129,7 @@ Bogennummer	Ort	Wenkersatz	Original	Alignment
 14580	Oberemmel	WS01	Em Wenter fleuen de tröcken Blädder durch de Lofft eremm!	em wenter fleuen de tröcken blädder durch de lofft eremm
 14591	Kell	WS01	Eamm Weannder flëin dëi trecken Blädder durch de Loft erem.	eamm weannder flëin dëi trecken blädder durch de loft erem
 14647	Lauterecken	WS01	Im Winder flieje die druckene Blerrer in de Luft erum.	im winder flieje die druckene blerrer in de luft erum
-14693	Dannenfels	WS01	Im Winder - auch mit unter Wender - fliehn die truckene Blärer en der Luft erum.	im winder   auch mit unter wender   fliehn die truckene blärer en der luft erum
+14693	Dannenfels	WS01	Im Winder <-auch mit unter Wender-> fliehn die truckene Blärer en der Luft erum.	im winder fliehn die truckene blärer en der luft erum
 14724	Monsheim	WS01	Em Winter fliehen die truckne Blärer dorch die Luft rum.	em winter fliehen die truckne blärer dorch die luft rum
 14746	Liersberg	WS01	Am Wanter flöihen dö tröcken Blödder an der Loft röm.	am wanter flöihen dö tröcken blödder an der loft röm
 14787	Damflos	WS01	Im Winder fliehe die droggene Blädder durch die Luft erom.	im winder fliehe die droggene blädder durch die luft erom
@@ -200,7 +200,7 @@ Bogennummer	Ort	Wenkersatz	Original	Alignment
 22340	Lüderitz	WS01	In Winter flegn de dröin Bläder dörch d' Luft ümher.	in winter flegn de dröin bläder dörch d luft ümher
 22792	Meuchefitz	WS01	Jn Windar fleg'n de dröhg Blärar därch de Luft arum.	jn windar flegn de dröhg blärar därch de luft arum
 22794	Satemin	WS01	Jm Windder fleegn dee drög Blärer in dee Luft arum.	jm windder fleegn dee drög blärer in dee luft arum
-22799	Lüchow	WS01	In Winder fleg'n de drög'n  Blärer in de Luft herrüm.	in winder flegn de drögn blärer in de luft herrüm
+22799	Lüchow	WS01	In Winder fleg'n de drög'n Blärer in de Luft herrüm.	in winder flegn de drögn blärer in de luft herrüm
 22893	Oberhausen	WS01	Em Wenter flegen de drogen Bläer dör de Luf heröm.	em wenter flegen de drogen bläer dör de luf heröm
 23041	Dinslaken	WS01	In de Wenter fliegen de drögen Bläer dör de Lof heröm.	in de wenter fliegen de drögen bläer dör de lof heröm
 23265	Pfalzdorf	WS01	Im Winter flihe die truckene Blärrer dorch de Luft herum.	im winter flihe die truckene blärrer dorch de luft herum
@@ -209,7 +209,7 @@ Bogennummer	Ort	Wenkersatz	Original	Alignment
 23361	Bedburg	WS01	In de Wenter fliege de dröge Bläär dörr de Locht.	in de wenter fliege de dröge bläär dörr de locht
 23471	Münster	WS01	Jn'n Winter fleigt de drügen Bliäder düör de Luft herüm.	jnn winter fleigt de drügen bliäder düör de luft herüm
 23488	Marienfeld	WS01	In'n Winter flaiget de drügen Bliäre düör de Luft herümme.	inn winter flaiget de drügen bliäre düör de luft herümme
-23507	Weseke	WS01	In'n Winter fleget de dröge Blah  dör de Luft herüm.	inn winter fleget de dröge blah dör de luft herüm
+23507	Weseke	WS01	In'n Winter fleget de dröge Blah dör de Luft herüm.	inn winter fleget de dröge blah dör de luft herüm
 23662	Romaney	WS01	Em Wengter flegen de drü Blader durch de Log herom.	em wengter flegen de drü blader durch de log herom
 23710	Drolshagen	WS01	Imme Winter flaint de drügen Blare düör de Luft rümme.	imme winter flaint de drügen blare düör de luft rümme
 23903	Schmallenberg	WS01	Imme Winter fleiget de droigen Bläär in der Luft rümme.	imme winter fleiget de droigen bläär in der luft rümme
@@ -479,10 +479,10 @@ Bogennummer	Ort	Wenkersatz	Original	Alignment
 31983	Niederlinxweiler	WS01	Emm Wender fliehä die drocke Bledder dorch die Luft errumm.	emm wender fliehä die drocke bledder dorch die luft errumm
 31996	Fürth	WS01	Im Winter fliehe die druckene Blierer in der Luft herum.	im winter fliehe die druckene blierer in der luft herum
 32008	Rehweiler	WS01	Im Winder fliie die drockene Blä̌rrer in der Luft erum.	im winder fliie die drockene blä̌rrer in der luft erum
-32049	Kaiserslautern	WS01	Im Winder fliehen  die truckene Blärre<(r)> in d<(e)> Luft erum.	im winder fliehen die truckene blärre in d luft erum
+32049	Kaiserslautern	WS01	Im Winder fliehen die truckene Blärre<(r)> in d<(e)> Luft erum.	im winder fliehen die truckene blärre in d luft erum
 32050	Mehlingen	WS01	Im Winter flieh'n die druckne Blärre in der Luft h'rumm.	im winter fliehn die druckne blärre in der luft hrumm
 32053	Alsenborn	WS01	Im Winter fliehen die druckene Blerre in de Luft erum.	im winter fliehen die druckene blerre in de luft erum
-32057	Weidenthal	WS01	Im Winter flii'e ̮n die truckn'e Ble'rre in dè Luft  ̮érum.	im winter fliie ̮n die truckne blerre in dè luft ̮érum
+32057	Weidenthal	WS01	Im Winter flii'e ̮n die truckn'e Ble'rre in dè Luft ̮érum.	im winter fliie ̮n die truckne blerre in dè luft ̮érum
 32067	Erpolzheim	WS01	Im Winter flijen die truckene Blerer in de Luft erum.	im winter flijen die truckene blerer in de luft erum
 32076	Dannstadt	WS01	Im Winder fliegen die druckene Bledder in der Luft rum. <(dd = etwas verschwommen).>	im winder fliegen die druckene bledder in der luft rum
 32091	Kirf	WS01	Em Wönter fliehen die treche Bläder dorch die Lut eröm.	em wönter fliehen die treche bläder dorch die lut eröm
