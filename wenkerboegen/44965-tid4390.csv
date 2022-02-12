@@ -2,7 +2,7 @@
 Bogennummer: '44965'
 Ort: Gränichen
 Gid: 18025
-Transliterent: fellmann
+Transliterationsprojekt: Citizen Science Projekt
 Anmerkungen: "ACHTUNG: {Das ist die Transkription von Bogen 44966 Gränichen 2 AG.\
   \ Aktuell sind in diesem Tool und in REDE unter \"Gränichen AG\" zwei Wenker-Bögen\
   \ einsortiert: \n44965 Gränichen AG  und  44966 Gränichen 2 AG.\nZustand im Tool\
@@ -13,16 +13,16 @@ Anmerkungen: "ACHTUNG: {Das ist die Transkription von Bogen 44966 Gränichen 2 A
   \ bis 40.\nDie Korrekturen, die der Lehrer während seiner Übersetzung gemacht hat,\
   \ sind hier kommentarlos in der Transkription übernommen.}"
 Erstelldatum: 2022-02-02 19:32:58.514041
-Änderungsdarum: 2022-02-02 19:35:12.309316
+Änderungsdatum: 2022-02-12 20:23:36.167249
 ...
 WS1	Em Wenter flüge di tròchne Blätter ì der Lùft ùme.
 WS2	E̊s hȫrt graad ūūf schnèie, dè wērd s Wätter wēder bèsser.
-WS3	Tue Chouwe {zunächst wohl 'Chouewe', dann 'e' durchgestrichen} ē Ofè dass Mēuch {zunächst 'Mèuch', dann accent grave durchgestrichen und neu Querstrich gesetzt}  baud afòt chòche.
+WS3	Tue Chouwe {zunächst wohl 'Choue', dann über 'e' weiter 'we' geschrieben und zuletzt die überflüssigen Teile des urspünglichen 'e' durchgestrichen} ē Ofè dass Mēuch {zunächst 'Mèuch', dann accent grave durchgestrichen und neu Querstrich gesetzt}  baud afòt chòche.
 WS4	Dè guèt aut Ma ēsch mēt èm Ròss dōrs Is bròche ùnd ēs chaut Wasser gfauwe.
 WS5	Èr ēsch vor 4 òdèr 6 Wòche gschtōrbe.
-WS6	S' Füür esch z' starch gsi, [K]chuèchè {1.Buchstabe sieht ähnlich aus wie 'H', von der Aussprache her muss es wohl ein 'K' sein} sēnd jo ùndè ganz schwarz brö̀nnt.
+WS6	S' Füür esch z' starch gsi, {angefangenes Wort abgebrochen und durchgestrichen} Kchuèchè {'K' sieht etwas ungewohnt aus} sēnd jo ùndè ganz schwarz brö̀nnt.
 WS7	Er ēsst d' Eièr ēmmer òni Sauwz ùnd Pfä̀ffer.
-WS8	Pfüess tüèm'mer wē, I glaͣ̈̀ube i ha si dùregloffè
+WS8	Pfüess tüèm'mer wē, I glaͣ̀ube {zunächst wohl 'a' und darüber 'ä', dann Umlaut-Punkte durchgestrichen und accent grave gesetzt}  i ha si dùregloffè
 WS9	I bē bē dèr Fraͣ̈u gsi ùnd han-er-es gsäit, ùnd si hèt gsäit, si weu [e]s aͣ̈u ehrer Tochter sä̀ge.
 WS10	I wotts aͣ̈̀u nömme mache.
 WS11	I schlo der grad mettem Chochlöffu ùm d' Ōre du Aff {zunächst 'Affe', dann 'e' durchgestrichen} !
@@ -41,11 +41,11 @@ WS23	Mēr sēnd müèd ùnd hä̀nd Tùrscht.
 WS24	Wo mer geschter zobe zro 'kcho send, do hä̀nd die andere schō fèscht gschlòfe
 WS25	De Schnee esch di Nacht be eus lēggè 'plebe, aber dǟ Morge ēsch èr gschmōuze.
 WS26	Hender eusem Huus stö̀nd 3 schȫn Ö̀pfubäumle met rote Öpfele.
-WS27	Hönnet‿ēr nēd nò es Aͣ̈̀ugèblēklē ùf eus wartè, dènn gömmer mēt euch
+WS27	Könnet‿ēr {wieder 'K' mit einem seltsamen Kringel} nēd nò es Aͣ̈̀ugèblēklē ùf eus wartè, dènn gömmer mēt euch
 WS28	Dèr dö̀rfet sèttigi Chēndèrèiè machè.
 WS29	Eusi Bǟrge sēnd ned sehr höch, euchi send vēu höcher.
 WS30	Wēvēu Pfōnd Wōrscht ùnd wēvēu Brot wä̀ndèr ?
-WS31	I vèrschònèch nēd dēr müènd èchlē lūter rèdè.
+WS31	I vèrschònèch {sic} nēd dēr müènd èchlē lūter rèdè.
 WS32	Hä̀ndèr kès Schtȫckle wissi Säife ōf èm Tēsch gfōnde.
 WS33	Si Brüedèr wòtt sèch zwöi schȫni neui Hüüser ē euem Gartè bòue.
 WS34	S' Wōrt ēsch èm vòm Hä̀rze chō.
@@ -54,4 +54,4 @@ WS36	Was hòckè dò fȫr Vö̀gèlē ōf em Müürlē òbe ?
 WS37	'Buure händ 5 Ochsè ùnd nüün Chüe ùnd zwö̀uf Schö̀flē vòrs Dōrf 'pròcht, die wänd si verchäufe.
 WS38	D' Lüt sind au doss of em Faͣ̈ud ùnd mäie
 WS39	Gang nùme de bruun Hond macht‿er nüt
-WS40	I bē mēt‿de Lüüte do hindè ȫber 'Mattè ēs Chòrn gfahrè.
+WS40	I bē mēt‿de Lüüte do hindè ȫber 'Mattè ēs Chòrn {am Wortende ist ein Zeichen 'o'(?) durchgestrichen} gfahrè.
