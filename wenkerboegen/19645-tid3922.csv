@@ -1,19 +1,21 @@
 ---
 Bogennummer: '19645'
-Ort: 10. Bezirk-Favoriten
+Ort: Wien - 10. Bezirk-Favoriten
 Gid: 50
 Sprache: Deutsch
 Bogentyp: Testbogen
 Erhebung: Testerhebung
-Transliterationsprojekt: ''
-Transliterent: engsterhold
+Transliterationsprojekt: Citizen Science Projekt
+Transliterent: Robert
 Anmerkungen: 'Das ist eine anmerkung, boah.
 
   ein neuer test
 
-  weihnachts test'
+  weihnachts test,
+
+  sess_id irgendwas mit 6, angemeldet'
 Erstelldatum: 2021-11-16 11:39:22.801124
-Änderungsdarum: 2021-12-23 07:37:50.093664
+Änderungsdatum: 2022-02-14 09:42:23.671733
 ...
 WS1	Das ist ein test
 WS2	Update Test
