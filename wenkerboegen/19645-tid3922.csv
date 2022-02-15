@@ -7,7 +7,11 @@ Bogentyp: Testbogen
 Erhebung: Testerhebung
 Transliterationsprojekt: Citizen Science Projekt
 Transliterent: '[TEST]Robert'
-Anmerkungen: 'Angemeldet, keine sid
+Anmerkungen: '
+
+  transaction error
+
+  Angemeldet, keine sid
 
   Angemeldet, sid
 
@@ -19,7 +23,7 @@ Anmerkungen: 'Angemeldet, keine sid
 
   sess_id irgendwas mit 6, angemeldet'
 Erstelldatum: 2021-11-16 11:39:22.801124
-Änderungsdatum: 2022-02-15 08:11:17.098078
+Änderungsdatum: 2022-02-15 08:31:09.342150
 ...
 WS1	Das ist ein test
 WS2	Update Test
