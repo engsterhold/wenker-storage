@@ -3,8 +3,13 @@ Bogennummer: '45003'
 Ort: Attiswil
 Gid: 19926
 Transliterationsprojekt: Citizen Science Projekt
+Anmerkungen: "{Erstaunlich ist der Wechsel in der Notation der Umlaute entweder durch\
+  \ zwei senkrechte Strichlein oder durch Querstrich. Er wird nirgends auf einen Unterschied\
+  \ hingewiesen, so dass unklar bleibt, ob, und wenn ja, was die Lehrerin damit ausdrücken\
+  \ wollte. \nDes weiteren ist unklar, wer die mit Rotstift gemachten Korrekturen\
+  \ gemacht hat.}"
 Erstelldatum: 2022-10-06 18:04:58.703172
-Änderungsdatum: 2022-10-07 17:32:18.332916
+Änderungsdatum: 2022-10-07 18:27:55.466549
 ...
 WS1	Im Winter flüüge die düüre Bletter i der Luft ume.
 WS2	Es hōrt glii uuf schneie, de wird s'Wātter wider besser.
@@ -13,7 +18,7 @@ WS4	"Dā guet aut Maa isch mit em Ross dūr s' Iisch broche und is chaute Wasser
 WS5	Ār isch vor vier oder sāchs Wuche g'schtorbe.
 WS6	s'Füür isch z' schtarch gsi, d'Chueche si jo ungernoche ganz verbrönnt.
 WS7	Ār isst d' Eier gäng ohni Sauz und Pfāffer.
-WS8	D' Füess tüe mr verfl. weh, i gloube i ha se dūregloffe.
+WS8	D' Füess tüe mr verfl. {bedeutet der Strich mit dem Rotstift unter 'v' etwas?}  weh, i gloube i ha se dūregloffe.
 WS9	I bi bi dr Frou gsi {mit Rotstift korrigiert:} < gsie̱ > {darunter steht, ebenfalls mit Rotstift:} < gse >  und ha res gseit, und si het gseit, si wöu's {verschmiert beim Apostroph} ihrer Tochter ou sääge.  
 WS10	I wott's ou nümm mache !
 WS11	I schloh dr de glii s'Chöueli um d' Ohre, du Aff ! {Kommentar mit Rotstift:} < du-n offen, wie schriftdeutsch >
@@ -25,7 +30,7 @@ WS16	Du bisch no nit gross gnue fūr ne Fläsche Wii usztrinke, du muesch z'ersc
 WS17	Bis so guet und gang sāg dir Schwöschter, si söu d' Chleider fūr öiy Mueter fertig näije und suber {unter 'b' von 'suber' mit Rotstift ergänzt:} < auch f > bürschte.
 WS18	Wenn ne du nume kennt hättsch ! de wär's angers cho und es tät besser mit im schtoh.
 WS19	Wär het mr mi Chorb mit em Fleisch drinn g'schtole ?
-WS20	Ār het drgliiche doh, si heige ne zum Drōsche bschtöut, si heis aber säuber g'macht.
+WS20	Ār het drgliiche doh, si heige ne zum Drōsche bschtöut, si heis aber säuber g' macht.
 WS21	Ä wämm het er di nöij G'schicht erzöut ?
 WS22	Me muess lut brüele, süsch verschteit er is nit.
 WS23	Mir si müed und hei Durscht {über 'u' steht mit Rotstift 'o':} < Dorscht >.
@@ -33,9 +38,9 @@ WS24	Wo mr geschter z' Oobe zrugg cho si, si die angere scho im Bett glääge un
 WS25	Dr Schnee isch über d'Nacht blibe, aber hüt de Morge isch er vergange.
 WS26	Hinger ūsem Hiis schtöh drüü schööni Öpfub[ö]imli {zunächst 'Öpfubä', dann 'ä' mit 'ö' überschrieben und mit 'imli' ergänzt} mit rote-n-Öpfeli.
 WS27	Chöit er nit no nes Ougeblickli uf is warte, de chöme mr mit nech.
-WS28	Dir dörft nid däwā {zunächst 'däwä', dann .ä-Strichlein mit Querstrich überschrieben} chingele.
-WS29	Üsi Bäärge {zunächst 'Bärge'. dann oben zwischen 'ä' und 'r' ein 2.'ä' eingefügt} si nit grad höch, öij si vöu höcher.
-WS30	Wi Mänggs Pfung Wurscht und wivöu Brot weit er ?
+WS28	Dir dörft nid däwā {zunächst 'däwä', dann 2.ä-Strichlein mit Querstrich überschrieben} chingele.
+WS29	Üsi Bäärge {zunächst 'Bärge', dann oben zwischen 'ä' und 'r' ein 2.'ä' eingefügt} si nit grad höch, öij si vöu höcher.
+WS30	Wi mänggs Pfung Wurscht und wivöu Brot weit er ?
 WS31	I verschtoh nech nit, dir müesst e chli luter rede.
 WS32	Heit dir nit es Bitzli wiissi Seife für mi uf mim Tisch g'funge ?
 WS33	Si Brueser wott sech i öiem Garte zwöi schööni nöij Hüser boue.
@@ -44,5 +49,5 @@ WS35	Dasch rächt gsi von ne !
 WS36	Was für Vögeli hocke do uf däm Müürli obe ?
 WS37	D'Buure hei füif Munine und nüün Chüe und zwöuf Schööfli vor's Dorf use broocht, wo si hei wöue verchouffe.
 WS38	D'Lüt si hüt aui uf em Fäud usse und mäije.
-WS39	Gang nume dä bruun Hung macht' dr nüt.
+WS39	Gang nume dä bruun Hung mach' dr {zunächst 'macht', dann 't' durchgestrichen und Apostroph angefügt} nüt.
 WS40	I bi mit de Lüt do hinge über d'Matte is Chorn gfahre.
