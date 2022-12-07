@@ -3,8 +3,12 @@ Bogennummer: '45884'
 Ort: Enzenbühl
 Gid: 546244
 Transliterationsprojekt: Citizen Science Projekt
+Anmerkungen: '{Es fällt auf, dass der Lehrer manchmal Umlaute mit zwei Punkten (oder
+  ähnlich) schreibt und manchmal einen Querstrich über den Vokal setzt. Ich kann nicht
+  entscheiden, ob er das (immer ?) bewusst gemacht hat und es etwas bestimmtes (was
+  ?) bedeutet, oder ob es vielleicht nur eine nachlässige Schreibweise ist.}'
 Erstelldatum: 2022-12-04 19:12:47.488979
-Änderungsdatum: 2022-12-05 18:37:17.437091
+Änderungsdatum: 2022-12-07 19:59:45.631031
 Satzversion: 1
 ...
 WS1	Im Winter flüge di trochene Bletter i dr Luft umenangere.
@@ -13,7 +17,7 @@ WS3	Tue Chole i Ofe, dass d' Miuch gly afat choche.
 WS4	Dä guet alt Ma isch mit em Ross uf em Ysch igchrutet u i ds chaute Wasser gheit.
 WS5	Er isch vor vier oder sächs Wuche gstorbe.
 WS6	Ds Für isch z' starch gsy , d'Chueche si ja ungerfer abrändtet.
-WS7	Er isst d ' Eier geg ohni Sauz u Pfäffer.
+WS7	Er isst d ' Eier geng ohni Sauz u Pfäffer.
 WS8	D' Füess tue mer schützlig weh, i gloube, i heig se düregloffe.
 WS9	I bi bi dr Frou gsy u ha res gseit , u si het gseit , si wöus o ihrer Tochter <(ihrem Meitschi)> säge.
 WS10	I wotts o nümme mache.
@@ -21,17 +25,17 @@ WS11	I schla dr dr Löffu a Gring , du Chaub.
 WS12	Wo geisch hi ; söue mer mit dr cho ?
 WS13	Es sy schlächti Zyte.
 WS14	Liebs Ching , blyb da unger sta, di böse Gäns bysse di süsch z'Tod.
-WS15	Du hesch hüt am meischte glehrt u bisc brav gsy , du darfsch früecher als dir andere heigah.
-WS16	Du bisch no nid gross gnue für ne Fläsche Wy usztrinke , du muesch zersch no chly wachse u grösser wärde.
-WS17	Gang, bis so guet u säg dir {zunächst 'dr', dann 'i' über 'r' eingefügt} Schwöschter , si sött d 'Chleider für eui Mueter fertig näje u bürschte.
-WS18	We du ne kennt hättisch, wärs angers use cho , u es stüeng  besser um ihn.
-WS19	Wär het mer my Chorb mit em Fleisch gschtole. 
+WS15	Du hesch hūt am meischte glehrt u bisch brav gsy , du darfsch früecher als die andere heigah.
+WS16	Du bisch no nid gross gnue fūr ne Flāsche Wy usztrinke , du muesch zersch no chly wachse u grōsser wärde.
+WS17	Gang, bis so guet u säg dir {zunächst 'dr', dann 'i' über 'r' eingefügt} Schwöschter , si sōtt d 'Chleider fūr eui Mueter fertig näje u bürschte.
+WS18	We du ne kennt hättisch, wārs angers use cho , u es stüeng  besser um ihn.
+WS19	Wār het mer my Chorb mit em Fleisch gschtole. 
 WS20	Er het drglyche ta, si heige ne zum Trösche bschteut ; sy heis aber säuber gmacht.
-WS21	Wäm het er die neui Gschicht verzellt ?
-WS22	Mi mues lut brüele , süsch versteit er is nid.
-WS23	Mir sy mued u hei Turscht.
+WS21	Wām het er die neui Gschicht verzellt ?
+WS22	Mi mues lut brüele , sūsch versteit er is nid.
+WS23	Mir sy müed u hei Turscht.
 WS24	Wo mer geschter am Abe sy heicho , sy die angere scho im Bett gsy u hi fescht gschlafe.
-WS25	Dr Schnee isch {'hüt am Morge' ist durchgestrichen; darüber steht:} disi Nacht   bi üs blybe lige , aber hüt am Morge isch er vergange.
+WS25	Dr Schnee isch {'hüt am Morge' ist durchgestrichen; darüber steht:} disi Nacht   bi üs blybe lige , aber hūt am Morge isch er vergange.
 WS26	Hinger ūsem Hus {zunächst 'Hūs', dann Querstrich durchgestrichen} stänge drū schōni Öpfuböimli mit rote-n-Öpfeli.
 WS27	Chöit dr nid no es {'no' ist nachträglich oben zwischen 'nid' und 'no' eingefügt} Blickli uf is warte , de chōme mer mit ech.
 WS28	Dir dōrfet nis settigi Tummheite mache.
@@ -39,11 +43,11 @@ WS29	Ūser Bārge sy nid grad hōch , euer sy viel höcher {'viel' ist nachträc
 WS30	Wie māngs Pfung Wurscht {zunächst 'Wūrscht', dann Querstrich über 'u' durchgestrichen} u wieviel Brot weit dr ?
 WS31	I verstah-n-ech {zunächst 'verstah-nech', dann oben '-' zwischen 'n' und 2.'e' eingefügt} nid, dir mūesst e chly luter rede.
 WS32	Heit dr kes Bitzli wyssi Seife fūr mi uf em Tschli funge.
-WS33	Sy Brueder wott seech zwöi schōni , nöii Hūser i {'eu' ist durchgestrichen} euem Garte boue.
+WS33	Sy Brueder wott sech zwöi schōni , nöii Hūser i {'eu' ist durchgestrichen} euem Garte boue.
 WS34	Ds Wort isch im vo {zunächst 'vom', dann 'm' durchgestrichen} Hārze cho.
 WS35	Da hei si Rācht ta.
 WS36	Was sitze da fūr Vōgeli obe uf em Mürli ?
-WS37	D' Bure hei fūf Ochse u {zunächst 'un', dann 'n' durchgestrichen} nün Chüeh u zwöuf Schäfli vor ds Dorf bracht gha ; di hi si wōlle verchoufe.
+WS37	D' Bure hei fūf Ochse u {zunächst 'un', dann 'n' durchgestrichen} nün Chüeh u zwöuf Schäfeli vor ds Dorf bracht gha ; di hi si wōlle verchoufe.
 WS38	D' Lūt sy hūt aui uf em Fāud u tüe mäje.
 WS39	Gang nume, dr brun Hung macht dr nüt.
 WS40	I bi mit dene Lüt da hinger ūber d' Matte i ds Chorn gfahre.
