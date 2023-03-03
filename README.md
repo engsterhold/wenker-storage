@@ -6,7 +6,7 @@
 
 ## Transliterations
 
-Different projects have provided transliterations. An ongoing effort is <https://wenker.online.uni-marburg.de/wenker/>
+Different projects have provided transliterations. An ongoing effort is <https://apps.dsa.info/wenker/>
 
 ## Format
 
