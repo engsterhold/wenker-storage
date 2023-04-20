@@ -4,11 +4,17 @@ Ort: Uetze
 Gid: 116481
 Transliterationsprojekt: Citizen Science Projekt
 Transliterent: Hans-Ulrich Henheik
-Anmerkungen: 'Der Bogen wurde vom Lehrer selbst ausgefüllt, was kein Problem darstellt,
-  wenn er aus dem selben Ort stammt. Jedoch ergeben sich aus Vergleichen sowohl mit
-  den Wenker-Bögen der Nachbarorte als auch mit späteren niederdeutschen Schriftzeugnissen
-  aus Uetze selbst (vor allem von Ernst Hübke) deutliche Abweichungen (die noch über
-  das in den Wenker-Sätzen bereits angemerkte hinausgehen).
+Anmerkungen: 'Um die Lesbarkeit des transliterierten Textes zu erleichtern, wurde
+  das Lang-S der Vorlage als einfaches S wiedergegeben (statt mit dem orthografisch
+  korrekteren "ſ"). Damit der Unterschied zum End-S der Vorlage trotzdem erkennbar
+  blieb, wurde dieses mit einem Ogonek " ̨" gekennzeichnet. Alle weiteren Diakritika
+  entsprechen der Vorlage.
+
+  Der Bogen wurde vom Lehrer selbst ausgefüllt, was kein Problem darstellt, wenn er
+  aus dem selben Ort stammt. Jedoch ergeben sich aus Vergleichen sowohl mit den Wenker-Bögen
+  der Nachbarorte als auch mit späteren niederdeutschen Schriftzeugnissen aus Uetze
+  selbst (vor allem von Ernst Hübke: "Dat was et", 2004) deutliche Abweichungen (die
+  noch über das in der Transliteration der Wenker-Sätzen bereits angemerkte hinausgehen).
 
   Heinrich Lütkemann schreibt über den Lehrer in seiner Chronik "Uetze", Hannover
   ²1898, S. 46: "Schul Meister an der 1. Schule [in Uetze]: … 1874-1887  Ernst Adolf
@@ -29,7 +35,7 @@ Original Anmerkungen: 'Auf der Rückseite bzw. Seite B:
   Frage 4 (Lautet st, sp in den mundartlichen Wörtern für Stall, stellen, sprechen,
   Spiel etc. wie scht-, schp- oder wie ßt-, ßp-?): beide Alternativen sind durchgestrichen!'
 Erstelldatum: 2023-04-16 14:08:12.275390
-Änderungsdatum: 2023-04-16 14:08:12.275390
+Änderungsdatum: 2023-04-20 16:45:29.806748
 Satzversion: 1
 ...
 WS1	Im Winter fleiget dei drögen Blär dorch de Luft herum
@@ -61,7 +67,7 @@ WS26	Hinder usen Huse staht drei schöne Appelböme mit rohen Appelkens̨.
 WS27	"Künnt jie nich noch 'n Ogenblick upp üsch täuwen, denn gaht wi mit jüch. {lokal und (später) in Uetze ""jück""}"
 WS28	Jih dröwet nich saune Kinderin drīwen.
 WS29	Use Barge sünd nich sehr hoch, juhe Barge sünd vehl höger.
-WS30	"Wo veel Pund Wŏst un wo veel Pund Brot wüllt jih hĕ[b’m]. {Bereich durchgestrichen/überstrichen, eventuell vorher ""hewwen""}"
+WS30	"Wo veel Pund Wŏst un wo veel Pund Brot wüllt jih hĕ[b’m]. {Bereich durchgestrichen/überschrieben, eventuell vorher ""hewwen""}"
 WS31	Ick verstahe jück nich, jih mȫt ’n betten luer spräken.
 WS32	Hewt jih kein Stückchen Seepe upp minen Disch e’ funnen.
 WS33	"Sien Brauder {in den meisten Nachbarorten zeitgleich ""Brauer""} well sick twei nie Hüser in juhen Gāren buen."
