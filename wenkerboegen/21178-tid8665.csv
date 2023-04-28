@@ -11,10 +11,13 @@ Anmerkungen: 'Um die Lesbarkeit des transliterierten Textes zu erleichtern, wurd
   entsprechen der Vorlage.
 
   Der Bogen wurde vom Lehrer selbst ausgefüllt, was kein Problem darstellt, wenn er
-  aus dem selben Ort stammt. Jedoch ergeben sich aus Vergleichen sowohl mit den Wenker-Bögen
+  aus dem selben Ort stammt. Jedoch ergeben sich aus Vergleichen sowohl mit den Wenkerbögen
   der Nachbarorte als auch mit späteren niederdeutschen Schriftzeugnissen aus Uetze
-  selbst (vor allem von Ernst Hübke: "Dat was et", 2004) deutliche Abweichungen (die
-  noch über das in der Transliteration der Wenker-Sätzen bereits angemerkte hinausgehen).
+  selbst (vor allem von Ernst Hübke: "Dat was et", 2004) deutliche Abweichungen, die
+  noch über das in der Transliteration der Wenker-Sätze bereits angemerkte hinausgehen.
+  Einzelne hochdeutsche Worte bzw. Wortformen wie "im" (WS1), "und" (WS7, WS23, WS24,
+  WS37, WS38), "am meisten" (WS15) und "Mutter" (WS17) tauchen jedoch auch in den
+  Wenkerbögen der Nachbarorte auf.
 
   Heinrich Lütkemann schreibt über den Lehrer in seiner Chronik "Uetze", Hannover
   ²1898, S. 46: "Schul Meister an der 1. Schule [in Uetze]: … 1874-1887  Ernst Adolf
@@ -22,7 +25,7 @@ Anmerkungen: 'Um die Lesbarkeit des transliterierten Textes zu erleichtern, wurd
   …". Neben der schon durch die zu übertragenden Sätze gegebene Beeinflussung durch
   das Hochdeutsche kommt hier wohl noch die durch den Dialekt der Stadt Lüneburg hinzu,
   für den Eduard Kück in seinem "Lüneburger Wörterbuch", Bd. 3 (Neumünster 1967) auf
-  Spalte 100 eben jene mit s- (statt sch-) anlautenden Formen des Verbs (hochdeutsch)
+  Spalte 100 eben jene mit "s-" (statt "sch-") anlautenden Formen des Verbs (hochdeutsch)
   "sollen" anführt.'
 Original Anmerkungen: 'Auf der Rückseite bzw. Seite B:
 
@@ -33,18 +36,20 @@ Original Anmerkungen: 'Auf der Rückseite bzw. Seite B:
   dem g in Kegel, kriegen, biegen, zeigen …) ist ergänzt "sämmtlich gleich"
 
   Frage 4 (Lautet st, sp in den mundartlichen Wörtern für Stall, stellen, sprechen,
-  Spiel etc. wie scht-, schp- oder wie ßt-, ßp-?): beide Alternativen sind durchgestrichen!'
+  Spiel etc. wie scht-, schp- oder wie ßt-, ßp-?): beide Alternativen sind durchgestrichen!
+  {Wahrscheinlich kannte E.A.O. Drafehn nur die zweite Variante, wie sie bei den ältesten
+  Menschen dieser Gegend immer noch zu hören ist.}'
 Erstelldatum: 2023-04-16 14:08:12.275390
-Änderungsdatum: 2023-04-20 16:45:29.806748
+Änderungsdatum: 2023-04-28 16:53:08.186493
 Satzversion: 1
 ...
 WS1	Im Winter fleiget dei drögen Blär dorch de Luft herum
 WS2	Et hört gliek upp tau snien, denn ward dat Wedder wär beter.
 WS3	Dau Kohlen in den Ōben { ̄ = Langvokal}, dat dei Melk balle an tau koken fangt.
 WS4	De gue ōle Mann is̨ {s̨ = End-S bzw. Rund-S; s = Lang-S, also ſ} mit den Pere dorcht Is̨ broken un int kohle Water fallen.
-WS5	Hei is̨ vŏr veir oder söß Wochen storben.
+WS5	Hei is̨ vŏr { ̆ = Kurzvokal} veir oder söß Wochen storben.
 WS6	Dat Füer waß tau heit, dei Kauken sünd ja un’n ganz swart brennt.
-WS7	Hei itt dei Eier ümmer uhne Sŏlt { ̆ = Kurzvokal} und Pepper.
+WS7	Hei itt dei Eier ümmer uhne Sŏlt und Pepper.
 WS8	Dei Fäute daut mick gefährlich weih, ick glöbe, ick hĕwe sei dorch lōpen.
 WS9	Ick bin bi der Fru wësen {ë entspricht wohl ä}, un hewwe et öhr esĕggt, un sei säe, sei woll et öhrer Dochter seggen.
 WS10	Ick will et ōk nich mehr wedder dauhn.
@@ -54,17 +59,17 @@ WS13	"Et sünd slechte Tieden. {in der Umgebung und (später) in Uetze stattdess
 WS14	Mien leiwet Kind, bliew hier unnen stahn, dei bösen Gäuse biet dick dot.
 WS15	Du hast hüte am meisten lehrt, un bist artig wësen, du draffst freuher nah Huß gahn, as̨ dei anderen.
 WS16	Du bist noch nich grōt nauch, um eine Flasche Wien uttaudrinken, du most noch erst ein En’n wassen un grötter wēr’n.
-WS17	"Gah’ si {lokal meist ""wes̨"" etc.} sau gut un segg’ diner Swester, sei söll {lokal meist ""schöll"" etc.} de Kleder {lokal meist ""Kleer"" etc.} von jue Mutter fertig neien un mit dei Bößt rein maken."
+WS17	"Gah’ si {in der Umgebung meist ""wes̨"" etc.} sau gut un segg’ diner Swester, sei söll {in der Umgebung meist ""schöll"" etc.} de Kleder {in der Umgebung meist ""Kleer"" etc.} von jue Mutter fertig neien un mit dei Bößt rein maken."
 WS18	Härrst du öhn ekannt, dann wür et anders̨ ekōmen, un et deh bäter um öhn stahn.
 WS19	Wer hat mick mienen Korw mit Fleisch stuhlen.
-WS20	"Hei deh sau, as̨ har’n sei öhn t[au] {lokal: ""taun""} Döschen bestellt, sei hett et aber süllwst {in der Umgebung und (später) in Uetze stattdessen ""sülms"" etc.} dahn."
+WS20	"Hei deh sau, as̨ har’n sei öhn t[au] {in den Nachbarorten: ""taun""} Döschen bestellt, sei hett et aber süllwst {in der Umgebung und (später) in Uetze stattdessen ""sülms"" etc.} dahn."
 WS21	Wem hatt hei de nie Geschichte vertellt.
-WS22	"Man mott lut {lokal und (später) in Uetze ""lue""} schrien, süß versteiht hei üsch nich."
+WS22	"Man mott lut {in der Umgebung und (später) in Uetze ""lue""} schrien, süß versteiht hei üsch nich."
 WS23	Wie sünd meue und hewwet Döst.
 WS24	As̨ wie gĭstern Abend trügge keimen, leigen dei Anderen all’ tau Bedde und wörr’n fast inslapen.
 WS25	Dei Sni is̨ düsse Nacht bi üsch liggen blëben, aber hüt Morgen is̨ hei smolten.
 WS26	Hinder usen Huse staht drei schöne Appelböme mit rohen Appelkens̨.
-WS27	"Künnt jie nich noch 'n Ogenblick upp üsch täuwen, denn gaht wi mit jüch. {lokal und (später) in Uetze ""jück""}"
+WS27	"Künnt jie nich noch 'n Ogenblick upp üsch täuwen, denn gaht wi mit jüch. {wohl verschrieben für ""jück"", so auch in Satz 31 und später in Uetze regelmäßig}"
 WS28	Jih dröwet nich saune Kinderin drīwen.
 WS29	Use Barge sünd nich sehr hoch, juhe Barge sünd vehl höger.
 WS30	"Wo veel Pund Wŏst un wo veel Pund Brot wüllt jih hĕ[b’m]. {Bereich durchgestrichen/überschrieben, eventuell vorher ""hewwen""}"
@@ -72,9 +77,9 @@ WS31	Ick verstahe jück nich, jih mȫt ’n betten luer spräken.
 WS32	Hewt jih kein Stückchen Seepe upp minen Disch e’ funnen.
 WS33	"Sien Brauder {in den meisten Nachbarorten zeitgleich ""Brauer""} well sick twei nie Hüser in juhen Gāren buen."
 WS34	"Dat Wort kamm ühm {Endung auf -m in der Umgebung und (später) in Uetze unüblich, stets ""öhn"" oder ""ühn"" } von Hart’n."
-WS35	"Dat was̨ recht van öhn. {nicht eindeutiges Personalpronomen (Einzahl oder Mehrzahl bzw. Höflichkeitsform?), Nachbarorte bieten u.a. ""öhnen"", ""jück"", ""sei""}"
+WS35	"Dat was̨ recht van öhn. {nicht eindeutiges Personalpronomen (Einzahl oder Mehrzahl bzw. Höflichkeitsform?), Nachbarorte bieten ""öhnen"" etc. als Plural-, ""jück"" und ""sei"" als Höflichkeitsformen}"
 WS36	"Wat sit't da vor Vogels̨ ŏben {in der Umgebung und (später) in Uetze unüblich, dafür stets ""boben"" etc.}  upp de Muer."
 WS37	De Buren harr’n fief Ossen un negen Keuhe und twölf Schäpken vor dat Dorp bröcht, dei wollen sei verköpen.
-WS38	"Dei Lüe sünd hüte alle buten upp dem {-m in der Umgebung und (später) in Uetze unüblich, stets ""up(p) den"" bzw. ""uppen"" } Felle und meiheten. {unerklärliche Endung auf -en)"
+WS38	"Dei Lüe sünd hüte alle buten upp dem {""-m"" in der Umgebung und (später) in Uetze unüblich, stets ""up(p) den"" bzw. ""uppen"" } Felle und meiheten. {unerklärliche Endung auf -en)"
 WS39	Gāh’ man, dei brune Hund dauht dick nicks̨.
 WS40	Ick bin mit den Lüen da hinnen ober dei Wische in’t Kōrn feuhrt. {hier fehlt – wie auch in den Sätzen 4-6, 8, 9 (wësen), 15, 19, 20, 24, 25 und 37 – die sonst übliche Vorsilbe e- des Partizips II}
