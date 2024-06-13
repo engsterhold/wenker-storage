@@ -5,8 +5,7 @@ Gid: 50
 Sprache: Deutsch
 Bogentyp: Testbogen
 Erhebung: Testerhebung
-Transliterationsprojekt: Citizen Science Projekt 2
-Transliterent: '[TEST]Robert'
+Transliterationsprojekt: Citizen Science Projekt
 Anmerkungen: '
 
   transaction error
@@ -24,10 +23,10 @@ Anmerkungen: '
   sess_id irgendwas mit 6, angemeldet'
 Original Anmerkungen: test
 Erstelldatum: 2021-11-16 11:39:22.801124
-Änderungsdatum: 2023-12-19 15:21:48.920585
+Änderungsdatum: 2024-06-13 13:53:12.942214
 Satzversion: 1
 ...
-WS1	Das ist ein test1234 von apps geht der timer
+WS1	Das ist ein test1234 von apps geht der timer AAAAA
 WS2	Update Test
 WS33	December update highscore edition
 WS34	test
