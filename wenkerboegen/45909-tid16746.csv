@@ -14,7 +14,7 @@ Anmerkungen: 'Der Übersetzer kennzeichnet Umlaute mit einen horizontalen Strich
   Anmerkungen angebracht, an anderen Stellen aber einfach i oder ü geschrieben, ohne
   Anmerkung. An einer Stelle hat er den Laut mit einem Bogen unter öü gekennzeichnet.'
 Erstelldatum: 2024-10-27 16:22:59.981163
-Änderungsdatum: 2024-10-27 16:22:59.981163
+Änderungsdatum: 2024-10-27 16:29:10.562074
 Satzversion: 1
 ...
 WS1	Im Winter flüge die trochene Bletter i dr Luft desume.
@@ -22,10 +22,10 @@ WS2	Es hört gli uf schneie, u de wird ds Wätter umi besser.
 WS3	Tue Choli i Ofe, dass d'Milch gly chunnt.
 WS4	Dä guet aut Ma isch mit em Ross dür z'Ysch broche u i ds'chaute Wasser ahi gheit.
 WS5	Är isch vor vier oder sächs Wuche gschtorbe
-WS6	Ds Für isch z'schtarch gsi, drum si d' <dr> Chueche unne dür ganz schwarz brönnt.
+WS6	Ds Für isch z'schtarch gsi, drum si d' <dr> {der Übersetzer hat dr mit d' überschrieben} Chueche unne dür ganz schwarz brönnt.
 WS7	Är isst d'Eier geng ohni Sauz <Säuz> {ä-Zeichen durchgestrichen} u Pfäffer.
 WS8	D'Füess <d> {durchgestrichen} tüe mer hert weh, i glube i hig se dürgloffe.
-WS9	I bi bi der Frou gsi uiha res gsit + si het gsit, si wöus dem Mitschi o säge.
+WS9	I bi bi der Frou gsi u[i]ha res gsit + si het gsit, si wöus dem Mitschi o säge.
 WS10	I wotts nimmeh mache.
 WS11	I schla der de gli mit em Suppelöffu um d'Ohre, du Aff.
 WS12	Wo giisch du hi, söue mer mit dr cho?
@@ -36,7 +36,7 @@ WS16	Du bisch no nid gross gnue für ne Fläsche Wy usztrieche, du muesch zersch
 WS17	Gang bis so guet u säg dir Schweschter si söu d's Gwand für d'Mueter fertig näie [u]putze {Satz abgekürzt}
 WS18	Hättisch du ne kennt, de wäres andersch cho, un es schtüendi besser um ihn.
 WS19	Wär het mir mi Chorb mit Flisch gschtole.
-WS20	Är het so ta wie we si ne zum Drösche bsteut <bsteuts> hätti, si his aber säuber gmacht.
+WS20	Är het so ta wie we si ne zum Drösche bsteut <bsteuts> {s durchgestrichen} hätti, si his aber säuber gmacht.
 WS21	Wem het er die nöii Gschicht erzeut.
 WS22	Mi muess lut brüele, süsch verstit er e[i]m nid.
 WS23	Mir si müed u hi Durscht.
@@ -49,7 +49,7 @@ WS29	Üser Bärge sy nid so höch, euer sy viu höcher.
 WS30	Wie mängs Pfund Wurscht und wieviel Brot müesst er ha?
 WS31	I verschtah nech nid, dir müesst lüterer rede.
 WS32	Hit dir kes Schtück wysi Sife <Sefe> <(i = zwischen i + e)> {der Übersetzer hat e mit i überschrieben und eine Anmerkung angefügt} uf em Tisch gfunde.
-WS33	Sy Brueder wott für sich zw͜öü nöii Hüser i euem Garte <Bo> {durchgestrichen} boue.
+WS33	Sy Brueder wott für sich zwö͜ü nöii Hüser i euem Garte <Bo> {durchgestrichen} boue.
 WS34	Das Wort chunnt ihm vo Härze.
 WS35	Das isch rächt von ech.
 WS36	Was <Wäs> {ä-Zeichen durchgestrichen} hocke da für Vögeli uf em Mürli?
