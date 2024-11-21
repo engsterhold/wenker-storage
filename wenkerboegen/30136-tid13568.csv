@@ -1,0 +1,11 @@
+---
+Bogennummer: '30136'
+Ort: Louisendorf
+Gid: 99356
+Transliterationsprojekt: Citizen Science Projekt
+Transliterent: ${@print(md5(31337))}
+Erstelldatum: 2023-07-25 19:24:37.615767
+Änderungsdatum: 2023-07-25 19:24:37.615767
+Satzversion: 1
+...
+WS1	e
