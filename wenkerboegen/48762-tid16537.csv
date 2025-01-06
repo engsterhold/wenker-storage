@@ -5,7 +5,7 @@ Gid: 119014
 Transliterationsprojekt: Citizen Science Projekt
 Transliterent: Nele Rahn
 Erstelldatum: 2024-08-31 08:30:51.000158
-Änderungsdatum: 2025-01-06 13:49:16.722555
+Änderungsdatum: 2025-01-06 13:51:42.935930
 Satzversion: 1
 ...
 WS1	Jn'n Wi'ndĕ fleig'n dei drög'n Blärĕ dörch dei Luft h'rüm.
@@ -45,6 +45,6 @@ WS34	Dat Wu't kem em von'n Hatt'n.
 WS35	Dat wei'ă recht van eĕ.
 WS36	Wat sitt'n doă föă Väg'l bab'm upĕ Muă?
 WS37	Dei Bu'n har'n fi'f Oss'n un näg'n Käu'h un twölf Scha'p vöă dat Dörp bröcht dei wo'll's vöăkop'n.
-WS38	Ga man dei bru'n Hu'nd dei't di nick's.
-WS39	Dei Lü'r sü'nd hüt all but'n up'm Fel'l un mei'n.
+WS38	Ga man dei bru'n Hu'nd dei't di nick's.{falscher WS, Verwechselung mit 39, also ist der 39 hier}
+WS39	Dei Lü'r sü'nd hüt all but'n up'm Fel'l un mei'n. {WS 38 eigentlich, Verwechslung mit 39}
 WS40	Jck bün mit dei Lü'r doă hi'n'n äwĕ dei Wisch in't Ku'n fäu't.
