@@ -6,7 +6,7 @@ Transliterationsprojekt: Citizen Science Projekt
 Anmerkungen: ''
 Original Anmerkungen: ''
 Erstelldatum: 2025-08-02 15:14:34.128340
-Änderungsdatum: 2025-08-24 16:18:21.930682
+Änderungsdatum: 2025-08-24 16:45:18.374737
 Satzversion: 1
 ...
 WS1	Jm Wénte̊r flüge̊d di tróchne̊ Blétte̊r i de̊ Lóft óme̊.
@@ -14,7 +14,7 @@ WS2	Ès hö́̄rt gli̇̄ ūf schneie̊, dénn wört 's Wètte̊r wide̊r bésse
 WS3	Tue̊ Chó̆le̊ in Ó̆fe̊, dass d' Milèch gli afangt chò̆che̊.
 WS4	"Dè gue̊t alt Maa ist {vor dem 'i' steht auf der Zeile ein Komma: das scheint ein Verschreiber zu sein, dann im Folgenden ist 'ist' ganz ""normal"" geschrieben} mit e̊m Rò̆ss dó̆rs Jis ibbrò̆che̊ ond {zunächst wohl 'und', dann 'u' mit 'o' überschrieben}is chālt Wasse̊r gfăle̊."
 WS5	Er ist vòr vie̊r oder sèchs Wó̆che̊ {Akut über 'o' ist ganz dünn} gstò̄rbe̊.
-WS6	"'s Füür ist z' starch gsi̇̄, die̊ Chueche̊ send jò ó̆ne̊ ganz schwarz b'brènnt {zunächt 'bré..', dann vor dem Wort oben "" b' "" eingefügt; ferner Verdoppelungsstrich auf 'n'}"
+WS6	"'s Füür ist z' starch gsi̇̄, die̊ Chueche̊ send jò ó̆ne̊ ganz schwarz b'brènnt {zunächt 'bré..', dann vor dem Wort oben "" b' "" eingefügt; ferner Verdoppelungsstrich auf  'n'}"
 WS7	E̊r esst d' Eier ălewi̇̆l óhni Salz ond Pfèffer.
 WS8	D' Füess tómmer starch weh, i glaube, i ha 's dó̄rglaufe.
 WS9	J bé̆ bi̇̆ de̊ Frau gsi̇̄ ŏnd hanner es gsaat, ónd si hä̆t gsaat, si wölls éhrer Töchter o säge.
@@ -24,13 +24,13 @@ WS12	Wo gòhst hé̄, sö̆led mer mit der chó̄ ?
 WS13	Es sénd schlèchti Ziite.
 WS14	Mi liebs Chénd, bli̇̄b dò ó̆ne stoh, die bȫse Géns bi̇̄ssed di tó̄d.
 WS15	Du häst hü̆t em meiste glehrt, ond bé̆st brāv gsi; du darfst früehner hā gó als di andere.
-WS16	Du bést nò ned gróss gnueg zomm {Verdoppelungsstrich auf 'm'} e Fläsche Wy us z' trinke; du muescht z é̄rst nò̆ chli̇̆ <(e weng)> wachse {zunächst 'chli̇̆ wachse, dann über dem Wortzwischenraum und über 'wachse' '(e weng)' eingefügt} ond grösser wèrde.
-WS17	Gang, bés so guet ond säg dinner Schwö̆ster, si söll d' Kleider för eueri Muetter fèrtig näje ond mit de Börste sūber {unter 'e' von 'sūber' ist ein kleiner Punkt: ein Kleckslein?} mäche.
-WS18	Héttist du e̊n kénnt, denn {znächst 'e̊n, denn', dann über dem Komma und 'denn' das Wort 'kénnt' eingefügt} wärs anderst chō ond 's stǟnd besser om di.
+WS16	Du bést nò ned gróss gnueg zomm {Verdoppelungsstrich auf 'm'} e Fläsche Wy us z' trinke; du muescht z é̄rst nò̆ chli̇̆ <(e weng)> wachse {zunächst 'chli̇̆ wachse', dann über dem Wortzwischenraum und über 'wachse' '(e weng)' eingefügt} ond grösser wèrde.
+WS17	Gang, bés so guet ond säg dinner Schwö́ster, si söll d' Kleider för eueri Muetter fèrtig näje ond mit de Börste sūber {unter 'e' von 'sūber' ist ein kleiner Punkt: ein Kleckslein?} mäche.
+WS18	Héttist du e̊n kénnt, denn {znächst 'e̊n, denn', dann über dem Komma und 'denn' das Wort 'kénnt' eingefügt} wärs anderst chó̄ {Akut ist dünn, Querstrich ist dick} ond 's stǟnd besser om di.
 WS19	Wèr hät-me̊r min Chò̄rb mit em Fleisch gstó̆le.
-WS20	Er hät tue, als hétted 's e̊n zom Trösche bstéllt. Sie hands aber selber tŏ̄.
+WS20	Er hät tue, als hétted 's e̊n zom Trösche bstéllt. Sie hands aber selber t[ó̄] {oder vielleicht 'tŏ̄' ?}.
 WS21	Wémm {Verdoppelungsstrich auf 'm'} hä̆t e̊r die neu Gschi̇̆cht verzé̆llt ?
-WS22	Me̊ mues lūt rüeffe, soss vestò̆t e̊r ǖs né̆d.
+WS22	Me̊ mues lūt rüeffe, soss vestò̆ht e̊r ǖs né̆d.
 WS23	Me̊r sénd müed ond hand Dṓrscht.
 WS24	Wó̆-m-mer ges ò̄bed zrogg chó̄ sénd, send di Andere scho im Bett gsi ond hend schó fést gschlò̄fe.
 WS25	De̊ Schnee ist bi̇̆ ǖs die̊ Nacht ligge blé̆be, aber hü̆t-de̊ mòrge ist er vergange.
@@ -39,13 +39,13 @@ WS27	Chö̆ned e̊r néd nò̆ en Augeblickli uf üs warte {zunächst 'Augeblick
 WS28	E̊r tö̀rfed néd dère̊ Chéndereie mache.
 WS29	Ü̆sere Bèrg sénd néd grăd hó̄ch, eueri sénd vill hȫcher.
 WS30	Wievill Pfónd Wṓrscht {Querstrich über 'o' ist dick, Akut dünn} ond wievill Brot wénd e̊r hā {zunächst 'hāt', dann 't' doppelt durchgestrichen} ?
-WS31	J verstand eu néd, e̊r {der Kringel über 'e' sieht fast aus wie einen '6'} mónd <(müend)> e bitzli lǖter ré̆de.
+WS31	J verstand eu néd, e̊r {der Kringel über 'e' sieht fast aus wie ein 'b'} mónd <(müend)> e bitzli lǖter ré̆de.
 WS32	Hand e̊r ka stückli wī̇ssi Sāpfe för mi̇̄ch òf mim Tisch gfónde.
 WS33	Si̇̆n Brüeder will sich zwā schö̆ni neui Hǖser i euerem Gārte baue.
 WS34	Dă Wò̄rt ist em vó̆ Hè̄rze chó̄.
 WS35	Dā ist rēcht gsi vo é̆ne.
-WS36	Wa setzid <(hòcked)> dò {zunächst 'setzig dò', dann über dem Wortzwischenraum '(hòcked)'  eingefügt} för vö̆geli of em Müüri ó̆be.
-WS37	D' Būre hand fǖf Stier ond nǖ Chüeh ond zwö̆lf Schö̀̄fli vö̆rs Dòrf bbrò̄cht; sie hands wéle verchaufe.
+WS36	Wa setzid <(hòcked)> dò {zunächst 'setzig dò', dann über dem Wortzwischenraum und 'dò'  '(hòcked)'  eingefügt} för Vö̆geli of em Müürli ó̆be.
+WS37	D' Būre hand fǖf Stier ond nǖ Chüeh ond zwö́̆lf Schö̀̄fli vö̆rs Dòrf bbrò̄cht; si {zunächst 'sie', dann 'e' durchgestrichen} hands wéle verchaufe.
 WS38	D' Lüt send hütt ăli óf em Fèld ósse ond mǟjed.
-WS39	Gang nó̆, dè brū Hónd tuet de̊r nü̆nt.
-WS40	J bé̆ mit dé̆ne Lǖte dò héne ö̆be d' Wé̆se is Chòrn gfahre.
+WS39	Gang nó̆, dè brū Hónd tuet-de̊r nü̆nt.
+WS40	J bé̆ mit dé̆ne Lǖte dò héne ö̆ber d' Wé̆se is Chòrn gfahre.
