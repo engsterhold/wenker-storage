@@ -3,16 +3,17 @@ Bogennummer: '48070'
 Ort: Eutin
 Gid: 104955
 Transliterationsprojekt: Citizen Science Projekt
+Transliterent: J. Siewert
 Anmerkungen: '"ö" und "ü" sowie teilweise auch "o" und "e" sind für mich in dieser
   Handschrift nur schwer bis gar nicht zu unterscheiden.
 
   Beim "ī" gehört das Makron eigentlich über den Punkt, aber das lassen die hier bereitgestellten
   Diakritika nicht zu.'
 Erstelldatum: 2025-08-31 15:46:32.115197
-Änderungsdatum: 2025-08-31 15:46:32.115197
+Änderungsdatum: 2025-08-31 16:41:41.937752
 Satzversion: 1
 ...
-WS1	In'n Winter flêgt de drög'n Bläder (Bläer) dörch de Luff herüm.
+WS1	In'n Winter flêgt de drög'n Bläder <(Bläer)> dörch de Luff herüm.
 WS2	Dat hölt glik up to snien, denn wardt dat Weder werre beder.
 WS3	Krieg Kahl'n in denn' Ab'n, dat de Melk bald an to kak'n fannk.
 WS4	De goh oll Mann is mit dat Perd dörch't Is brak'n un in dat kuhl Wader full'n.
@@ -43,7 +44,7 @@ WS28	Ji dörft nich so'n Kinnertög drieb'n.
 WS29	Uns' Barg'n sünd nich sehr hôch, ju'n sünd veel hö̂ger.
 WS30	Woveel Pund Wuß un woveel Brod wüllt ji hemm',
 WS31	Ick vörstah ju nich, ji möt 'n bêt'n luder spräk'n.
-WS32	Hept ji nich'n (kên) lütt Stück widde Sêp för mi op mien'n Disch fun'n?
+WS32	Hept ji nich'n <(kên)> lütt Stück widde Sêp för mi op mien'n Disch fun'n?
 WS33	Sien Brôder will sick twê schön ni Hüser in jun'n Gor'n bu'n.
 WS34	Dat Wort kö̂m em vun Hart'n.
 WS35	Dat wehr rech vun ehr.
@@ -51,4 +52,4 @@ WS36	Wat sitt dār för lütt Vageln bab'n op de lütt Muer?
 WS37	De Būrn harr'n fief Oss'n un neg'n Kö̂h un twölf Schap för dat Dörp bröcht, de wull'n sê vörkȫp'n.
 WS38	De Lüd' sünd hǖt all' but'n op'n Fell' un meiht.
 WS39	Gah man, de bruhn Hund deit di nicks.
-WS40	Ick bün mit de Lǖ(d) dār achder ä̂wer de Wisch in't Kōrn föhrt.
+WS40	"Ick bün mit de Lǖ(d) dār achder ä̂wer de Wisch {""nat"" durchgestrichen} in't Kōrn föhrt."
