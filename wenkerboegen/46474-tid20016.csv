@@ -4,15 +4,47 @@ Ort: Schönkirchen
 Gid: 106531
 Transliterationsprojekt: Citizen Science Projekt
 Transliterent: Wk
+Anmerkungen: "Nach dem achten Satz habe ich aufgehört, die roten und blauen Bearbeitungsspuren\
+  \ mitzudokumentieren. \nDie schreibende Person verdeutlicht sehr häufig, nicht immer,\
+  \ ein fehlendes -e-, z.B. in der Wortendung, durch ein Apostroph, ohne dabei den\
+  \ Schreibfluss zwischen dem Buchstaben davor und dem Schluss-n / folgenden Konsonanten\
+  \ zu unterbrechen. Das kann ich nicht besser abbilden als so, wie ich es durch das\
+  \ Absetzen getan habe. Vgl. z.B. in Satz 3: kak'n"
 Erstelldatum: 2026-03-28 14:37:32.162538
-Änderungsdatum: 2026-03-28 14:43:09.164099
+Änderungsdatum: 2026-03-29 10:16:57.979610
 Satzversion: 1
 ...
 WS1	"In'n Winder flēg de drögen Blä dör de Lŭf herüm.{rote Unterstreichungen unter den einzelnen Wörtern ""hört"", ""Winder"", ""flēg"", ""Blä"" und ""Lŭf ""; blaue senkrechte Striche hinter ""Blä"" und ""Lŭf "".}"
 WS2	"Dat hört glick op taŭ schnien, denn ward dat Weller weller beder. {rote Unterstreichungen unter den einzelnen Wörtern ""hört"", ""glick"", ""schnien"" und ""Weller"".}"
-WS3	"Daŭ Kä̀hle in'n A[?]bnd dat de Melk bald an taŭ kak'n fangt. {""fangt"" steht im Original als Einfügung über ""an"", wurde mit einem blauen Buntstift eingekreist und dem Satzende zugeordnet.} {rote Unterstreichungen unter den einzelnen Wörtern ""Daŭ"", ""Kä̀hle"", ""A[?]bnd"" und ""Melk"", ""bald"", ""an"" und ""fangt"".}"
+WS3	"Daŭ Kä̀hle in'n A[?]bnd dat de Melk bald an taŭ kak'n fangt. {""fangt"" steht im Original als Einfügung über ""an"", wurde mit einem blauen Buntstift eingekreist und dem Satzende zugeordnet.} {rote Unterstreichungen unter den einzelnen Wörtern ""Daŭ"", ""Kä̀hle"", ""A[?]bnd"" und ""Melk"", ""bald"", ""an"" und ""fangt"".} {Zu ""A[?]bnd"" vgl. ""Abnd"" in Satz 24}"
 WS4	"De gō ol Mann is mid dat Perd dört Jis  brokn ŭn in dat kohld Wader fŭlle. {rote Unterstreichungen unter den einzelnen Wörtern ""ol"", ""Mann"", ""Jis"" und ""brokn""; blauer senkrechter Strich hinter ""ol""; zusätzlich hinter ""ol"" und ""kohld"" jeweils ein blauer senkrechter Strich, der doppelt unterstrichen ist: Andeutung eines fehlenden t-Lautes?.}"
-WS5	"He is wär weer oder sös Wekn [??]ud blewen. {rote Unterstreichungen unter den einzelnen Wörtern ""is"", ""sös"" und ""Wekn""; blauer senkrechter Strich hinter ""is"" und über/hinter dem ö von ""sös""; hinter ""Wekn"" ein blauer senkrechter Strich mit einem Kreis am oberen Ende.}"
+WS5	"He is wär weer oder sös Wekn [d]aud blewen. { ""sös"" wurde offensichtlich aus  ""Sös"" verbessert. Anscheinend handelt es sich bei dem von der schreibenden Person verbesserten ersten Buchstaben in ""[d]aud"" um ein d, das aus einem anlautenden st- zum Wortstamm sterb-) abgeändert wurde.} {rote Unterstreichungen unter den einzelnen Wörtern ""is"", ""sös"" und ""Wekn""; blauer senkrechter Strich hinter ""is"" und über/hinter dem ö von ""sös""; hinter ""Wekn"" ein blauer senkrechter Strich mit einem Kreis am oberen Ende.}"
 WS6	"Dat Füer weer taŭ hitt, de Kauk'n sind jo ünner ganz swart brennt. {rote Unterstreichungen unter den einzelnen Wörtern ""Füer"", ""hitt, ""jo"", ""ünner"", ""swart"" und ""brennt""; blauer senkrechter Strich über/hinter dem nn von ""ünner"".}"
 WS7	"He idd de Eier ümmer ahn Sald ŭn Paber. {rote Unterstreichungen unter den einzelnen Wörtern ""idd"", ""Eier"", ""ahn, ""Sald"" und ""Paper"".}"
-WS8	"De Fäŭt daŭt mi förchterli weh, ick löw, ick heff se dör lōʒ́n. {rote Unterstreichungen unter den einzelnen Wörtern ""weh"", ""löw"", und ""lōʒ́n""; blauer senkrechter Strich vor ""löw""; zusätzlich hinter ""löw"" ein blauer senkrechter Strich, der doppelt unterstrichen ist: Andeutung eines fehlenden Lautes?.}"
+WS8	"De Fäŭt daŭt mi förchterli weh, ick löw, ick heff se dör lōp'n. {rote Unterstreichungen unter den einzelnen Wörtern ""weh"", ""löw"", und ""lōp'n""; blauer senkrechter Strich vor ""löw""; zusätzlich hinter ""löw"" ein blauer senkrechter Strich, der doppelt unterstrichen ist: Andeutung eines fehlenden Lautes?.}"
+WS9	Ick bün bi de Frŭ west, un heff er dat segg, ŭn se sä, se wŭll dat ock taŭ er Dochder sag'n.
+WS10	Ick will dat ock ni enmal weller daŭn.
+WS11	Ick sla di glick mit'n Schlew üm de Ohr'n dŭ  Aap.
+WS12	Wo geihst dŭ hin, schöll wi mit di gahn.
+WS13	Dat sünd slech Tied'n
+WS14	Min lew Kind, bliew hier nerd'n stahn; de bäŭs'n Gäŭs biet di dod.
+WS15	Du hast hüt am mehst'n lehrt ŭn böß ardi west, dŭdörfst eh'r taŭ́ Hŭß gahn aß de Annern.
+WS16	Dŭ böst na ni grod noch en Budd'l Wien ŭt taŭ drink'n, dŭ mŭß ehrst na en En wassen ŭn grödder werdn.
+WS17	Gah hin [was so gaŭt) {Klammern so im Original} un segg taŭ di Swestér, se schüll de Kleder für er Modder klar mak'n ŭn afbörst'n.
+WS18	Harst dŭ em kannt, denn wehr't anners kahm ŭn stünn beder ũm em.
+WS19	Wemm hett min Kolf mit Flesch stahl'n.
+WS20	He beer so, aß herrn se em taŭ döschen bestellt; se helbt dat awer s[ö]lm dahn.
+WS21	W[ö]rk'n hett he de nie Geschich vertellt.
+WS22	Man mött d[ü]chdi prahln, sönst versteiht he ŭns ni.
+WS23	Wi sünd mö ŭn hebbt Döst.
+WS24	As wi güstern Abnd tr[ü]g käŭm, da leg'n de Annern all in't Bett ŭn warn fast ant schlap'n.
+WS25	de Sne iß düs Nach bi ŭns lieg'n blew'n, awer hüt Morg'n iß he smölt.
+WS26	Achder ŭns H[ü]ß staht dre lött schöne Abbelbäŭm mit lüdd[e] rode Abbel[n].
+WS27	Künnt ji ni na'n lütt Og'nblick [o]p ŭns st[ö]hm, dann gah wi mit jŭ.
+WS28	Ji dörwt ni s[a]u Kinnerien driew'n.
+WS29	Uns' Barg'n sünd ni heel hoch, jŭ sünd weel höger.
+WS30	W[ü] vel Pŭnd Woß ŭn wo vel Brot wüllt ji hem.
+WS31	Ick verstah jŭ n bed'n harder snakn.i, ji mött'n harder snakn.
+WS32	Hebbt ji kaan Stück witt Seep för mi op min Disch fŭnd'n.
+WS33	Sin Broder will sük twe schön nie Hüs['] in jŭ'n Garn bŭ'n.
+WS34	Dat Wort köm em von Herd'n
